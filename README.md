@@ -22,5 +22,5 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Durch Asiens Wüsten Band I. [archive.org](https://archive.org/details/imherzenvonasien01hedi/page/n7/mode/2up)
+m Herzen von Asien. Band I. [archive.org](https://archive.org/details/imherzenvonasien01hedi/page/n7/mode/2up)
 
