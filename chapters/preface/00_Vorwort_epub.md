@@ -81,16 +81,16 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Oase Nagara-tschalldi](ch002.xhtml#b021)
 * [Schwieriger Übergang über den Kisil-su](ch002.xhtml#b023)
 * [Durch die Furt des Kisil-su](ch002.xhtml#b024) (Separatbild)
-* Nikolai Fedorowitsch Petrowskij, Wirklicher Staatsrat, kaiserlich russischer Generalkonsul in Kaschgar
-* Die beiden Kosaken Sirkin und Tschernoff
-* Aufbruch der ersten Karawane aus Kaschgar (Separatbild)
-* Markt in Kaschgar
-* Ein Seiltänzer in Kaschgar
-* Pappeln an der Landstraße (Separatbild)
-* Meine erste Kamelkarawane in der Wüste im Osten von Kaschgar 
-* In der Wüste zwischen Terem und Lailik
-* Übergang über einen Kanalarm unterhalb Kaschgar (Separatbild)
-* Kurze Rast in der Wüste
+* [Nikolai Fedorowitsch Petrowskij, Wirklicher Staatsrat, kaiserlich russischer Generalkonsul in Kaschgar](ch003.xhtml#b027)
+* [Die beiden Kosaken Sirkin und Tschernoff](ch003.xhtml#b028)
+* [Aufbruch der ersten Karawane aus Kaschgar](ch003.xhtml#b029) (Separatbild)
+* [Markt in Kaschgar](ch003.xhtml#b029a)
+* [Ein Seiltänzer in Kaschgar](ch003.xhtml#b031)
+* [Pappeln an der Landstraße](ch003.xhtml#b032) (Separatbild)
+* [Meine erste Kamelkarawane in der Wüste im Osten von Kaschgar](ch003.xhtml#b033)
+* [In der Wüste zwischen Terem und Lailik](ch003.xhtml#b034)
+* [Übergang über einen Kanalarm unterhalb Kaschgar](ch003.xhtml#b036) (Separatbild)
+* [Kurze Rast in der Wüste](ch003.xhtml#b037)
 * Das Zelt meiner Leute in Lailik
 * Verkehr zwischen der Werft und dem Lager
 * Transport der Fähre nach dem rechten Flußufer

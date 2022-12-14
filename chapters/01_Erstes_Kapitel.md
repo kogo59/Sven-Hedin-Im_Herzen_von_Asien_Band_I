@@ -400,6 +400,11 @@ Kosakeneskorte geleitet, entgegen.
 
 :::
 
+:::: align-center
+****
+::::
+
+
 ### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Osch*: vergleiche [Osch](https://de.wikipedia.org/wiki/Osch)]{.footnote}
