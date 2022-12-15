@@ -70,36 +70,36 @@ guten Namen vor vielen Schnitzern bewahrt!
 ## Abbildungen. {#ABB .unnumbered  }
 
 * [Porträt des Verfassers](ch001.xhtml#b000) (Titelbild)
-* [Das englische Faltboot auf dem Panggong-tso in Westtibet](ch001.xhtml#b003)
-* [Islam Bai](ch001.xhtml#b009)
-* [Meine Kamelkarawane](ch002.xhtml#b011)
-* [Brücke oberhalb Gultscha](ch002.xhtml#b013)
-* [Meine erste Karawane](ch002.xhtml#b016) (Separatbild)
-* [Kurze Rast auf dem Marsche](ch002.xhtml#b017)
-* [Rast in der Oase Nagara-tschalldi](ch002.xhtml#b018) (Separatbild)
-* [Kamelkarawane, einen Arm des Kisil-su durchwatend](ch002.xhtml#b019)
-* [Oase Nagara-tschalldi](ch002.xhtml#b021)
-* [Schwieriger Übergang über den Kisil-su](ch002.xhtml#b023)
-* [Durch die Furt des Kisil-su](ch002.xhtml#b024) (Separatbild)
-* [Nikolai Fedorowitsch Petrowskij, Wirklicher Staatsrat, kaiserlich russischer Generalkonsul in Kaschgar](ch003.xhtml#b027)
-* [Die beiden Kosaken Sirkin und Tschernoff](ch003.xhtml#b028)
-* [Aufbruch der ersten Karawane aus Kaschgar](ch003.xhtml#b029) (Separatbild)
-* [Markt in Kaschgar](ch003.xhtml#b029a)
-* [Ein Seiltänzer in Kaschgar](ch003.xhtml#b031)
-* [Pappeln an der Landstraße](ch003.xhtml#b032) (Separatbild)
-* [Meine erste Kamelkarawane in der Wüste im Osten von Kaschgar](ch003.xhtml#b033)
-* [In der Wüste zwischen Terem und Lailik](ch003.xhtml#b034)
-* [Übergang über einen Kanalarm unterhalb Kaschgar](ch003.xhtml#b036) (Separatbild)
-* [Kurze Rast in der Wüste](ch003.xhtml#b037)
-* Das Zelt meiner Leute in Lailik
-* Verkehr zwischen der Werft und dem Lager
-* Transport der Fähre nach dem rechten Flußufer
-* Bau der schwarzen Kajüte
-* Die Werft
-* Mädchen aus Lailik
-* Die Fähre auf dem Jarkent-darja (Separatbild)
-* Tänzerinnen und Musikanten beim Abschiedsfest in Laililk
-* Der Verfasser an seinem Arbeitstisch an Bord der Fähre
+* [Das englische Faltboot auf dem Panggong-tso in Westtibet](ch003.xhtml#b003)
+* [Islam Bai](ch003.xhtml#b009)
+* [Meine Kamelkarawane](ch004.xhtml#b011)
+* [Brücke oberhalb Gultscha](ch004.xhtml#b013)
+* [Meine erste Karawane](ch004.xhtml#b016) (Separatbild)
+* [Kurze Rast auf dem Marsche](ch004.xhtml#b017)
+* [Rast in der Oase Nagara-tschalldi](ch004.xhtml#b018) (Separatbild)
+* [Kamelkarawane, einen Arm des Kisil-su durchwatend](ch004.xhtml#b019)
+* [Oase Nagara-tschalldi](ch004.xhtml#b021)
+* [Schwieriger Übergang über den Kisil-su](ch004.xhtml#b023)
+* [Durch die Furt des Kisil-su](ch004.xhtml#b024) (Separatbild)
+* [Nikolai Fedorowitsch Petrowskij, Wirklicher Staatsrat, kaiserlich russischer Generalkonsul in Kaschgar](ch005.xhtml#b027)
+* [Die beiden Kosaken Sirkin und Tschernoff](ch005.xhtml#b028)
+* [Aufbruch der ersten Karawane aus Kaschgar](ch005.xhtml#b029) (Separatbild)
+* [Markt in Kaschgar](ch005.xhtml#b029a)
+* [Ein Seiltänzer in Kaschgar](ch005.xhtml#b031)
+* [Pappeln an der Landstraße](ch005.xhtml#b032) (Separatbild)
+* [Meine erste Kamelkarawane in der Wüste im Osten von Kaschgar](ch005.xhtml#b033)
+* [In der Wüste zwischen Terem und Lailik](ch005.xhtml#b034)
+* [Übergang über einen Kanalarm unterhalb Kaschgar](ch005.xhtml#b036) (Separatbild)
+* [Kurze Rast in der Wüste](ch005.xhtml#b037)
+* [Das Zelt meiner Leute in Lailik](ch006.xhtml#b039)
+* [Verkehr zwischen der Werft und dem Lager](ch006.xhtml#b041)
+* [Transport der Fähre nach dem rechten Flußufer](ch006.xhtml#b043)
+* [Bau der schwarzen Kajüte](ch006.xhtml#b045)
+* [Die Werft](ch006.xhtml#b047)
+* [Mädchen aus Lailik](ch006.xhtml#b048)
+* [Die Fähre auf dem Jarkent-darja](ch006.xhtml#b048a) (Separatbild)
+* [Tänzerinnen und Musikanten beim Abschiedsfest in Lailik](ch006.xhtml#b049)
+* [Der Verfasser an seinem Arbeitstisch an Bord der Fähre](ch006.xhtml#b053)
 * Idyllische Fahrt auf dem Tarim (bunte Tafel)
 * Frauen und Kinder unserer Bootsleute auf dem Wege zur Fähre
 * Die Jolle segelfertig
