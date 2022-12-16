@@ -106,10 +106,10 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Lager am Strand](ch007.xhtml#b069)
 * [Das Innere meines Zeltes auf der Fähre](ch008.xhtml#b081)
 * [Hirtenhütte in der Nähe des Masar-tag](ch008.xhtml#b083)
-* Kasim beim Fischfang
-* Unser Lager bei Kurruk-asste (Separatbild)
-* Kasim mit seinem Fang
-* Eingeborene am Ufer des Tarim
+* [Kasim beim Fischfang](ch009.xhtml#b087)
+* [Unser Lager bei Kurruk-asste](ch009.xhtml#b089) (Separatbild)
+* [Kasim mit seinem Fang](ch009.xhtml#b089a)
+* [Eingeborene am Ufer des Tarim](ch009.xhtml#b091)
 * Begräbnisplatz am. Sai-tag
 * Der Jarkent-daja am Sai-tag
 
