@@ -104,8 +104,8 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Frauen und Kinder unserer Bootsleute auf dem Wege zur Fähre](ch007.xhtml#b057) 
 * [Die Jolle segelfertig](ch007.xhtml#b065)
 * [Lager am Strand](ch007.xhtml#b069)
-* Das Innere meines Zeltes auf der Fähre
-* Hirtenhütte in der Nähe des Masar-tag
+* [Das Innere meines Zeltes auf der Fähre](ch008.xhtml#b081)
+* [Hirtenhütte in der Nähe des Masar-tag](ch008.xhtml#b083)
 * Kasim beim Fischfang
 * Unser Lager bei Kurruk-asste (Separatbild)
 * Kasim mit seinem Fang
