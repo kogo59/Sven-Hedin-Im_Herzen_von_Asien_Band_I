@@ -100,10 +100,10 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Die Fähre auf dem Jarkent-darja](ch006.xhtml#b048a) (Separatbild)
 * [Tänzerinnen und Musikanten beim Abschiedsfest in Lailik](ch006.xhtml#b049)
 * [Der Verfasser an seinem Arbeitstisch an Bord der Fähre](ch006.xhtml#b053)
-* Idyllische Fahrt auf dem Tarim (bunte Tafel)
-* Frauen und Kinder unserer Bootsleute auf dem Wege zur Fähre
-* Die Jolle segelfertig
-* Lager am Strand
+* [Idyllische Fahrt auf dem Tarim](ch007.xhtml#b056) (bunte Tafel)
+* [Frauen und Kinder unserer Bootsleute auf dem Wege zur Fähre](ch007.xhtml#b057) 
+* [Die Jolle segelfertig](ch007.xhtml#b065)
+* [Lager am Strand](ch007.xhtml#b069)
 * Das Innere meines Zeltes auf der Fähre
 * Hirtenhütte in der Nähe des Masar-tag
 * Kasim beim Fischfang
