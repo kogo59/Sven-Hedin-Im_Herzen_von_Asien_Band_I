@@ -112,9 +112,9 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Eingeborene am Ufer des Tarim](ch009.xhtml#b091)
 * [Begräbnisplatz am Sai-tag](ch010.xhtml#b101)
 * [Der Jarkent-daja am Sai-tag](ch010.xhtml#b103)
-* Falkner mit. Jagdadler
-* Landung an der Mündung des Aksu-darja
-* Die Fähre an der Mündung des Aksu-darja
+* [Falkner mit Jagdadler](ch011.xhtml#b115)
+* [Landung an der Mündung des Aksu-darja](ch011.xhtml#b117)
+* [Die Fähre an der Mündung des Aksu-darja](ch011.xhtml#b119)
 * Unser Nachtlager bei Ala Kunglei Busrugvar
 * Fischereigeräte der Hirten von Tellpel
 * Ein Hirt schenkt uns ein Schaf

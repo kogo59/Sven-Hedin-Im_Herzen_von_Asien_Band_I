@@ -413,7 +413,6 @@ Wir hatten jetzt nur noch 16,<small>8</small> Kubikmeter Wasser unter der
 Flottille, und die Aussichten für die Fortsetzung der Fahrt begannen wieder
 bedenklich auszusehen.
 
-
 :::
 
 :::: align-center
