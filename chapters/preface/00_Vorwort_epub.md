@@ -110,8 +110,54 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Unser Lager bei Kurruk-asste](ch009.xhtml#b089) (Separatbild)
 * [Kasim mit seinem Fang](ch009.xhtml#b089a)
 * [Eingeborene am Ufer des Tarim](ch009.xhtml#b091)
-* Begräbnisplatz am. Sai-tag
-* Der Jarkent-daja am Sai-tag
+* [Begräbnisplatz am Sai-tag](ch010.xhtml#b101)
+* [Der Jarkent-daja am Sai-tag](ch010.xhtml#b103)
+* Falkner mit. Jagdadler
+* Landung an der Mündung des Aksu-darja
+* Die Fähre an der Mündung des Aksu-darja
+* Unser Nachtlager bei Ala Kunglei Busrugvar
+* Fischereigeräte der Hirten von Tellpel
+* Ein Hirt schenkt uns ein Schaf
+* Kähne auf dem mittelsten Tarim
+* Uns begleitende Kähne aus Tschimen
+* Besuch des Beks von Schah-jar in Tschimen (Separatbild)
+* Frühstücksrast auf dem Jumalak-darja (Separatbild)
+* Der See Koral-dungning-köll
+* Der Jumalak-darja von Koral-dung gesehen
+* Rekognoszierender Kahn
+* Drohender Schiffbruch (Separatbild)
+* Kähne auf dem unteren Tarim
+* Ördek und Palta als Lotsen (Separatbild)
+* Tokkus-kum, das Nordufer der Sandwüste
+* Dorf Al-kattik-tschekke
+* Treibeis auf dem unteren Tarim
+* Nächtlicher Kampf mit dem Treibeise  (bunte Tafel)
+* Blick vom rechten Tarimufer flußaufwärts (1. Dezemberr).
+* Begrüßung Parpi Bais und Islam Bais (Separatbild)
+* Die Fähre an der Mündung des Ugen-darja
+* Kleine gebundene Dünen bei Karaul
+* Verlassene Hütten am Seit-köll
+* Winterquartier in Jangi-köll mit meinen Leuten
+* Unser. Hauptquartier Tura-sallgan-ui
+* Hütten in Aktarma, einem unserer Nachbardörfer
+* Zusammentreffen mit dem Franzosen Bonin (Separatbild)
+* Bonin im Hauptquartier (Separatbild)
+* Parpi, Palta und Islam auf den äußersten Dünen des Sandmeeres am Jangi-köll
+* Sandsturm in der Wüste (Separatbild)
+* Abstieg über den steilen Abfall einer Sanddüne (Separatbild)
+* Die Karawane zwischen Bergen von Flugsand hinziehen.
+* Das endlose Wüstenmeer
+* Beladenes Kamel
+* Karawane auf dem Astin-joll
+* Hirtenhütten in Schudang
+* Das alte Bett des Tschertschen-darja
+* Eine alte Tograk am Tschertschen-darja
+* Pappel am unteren Tarim
+* Auf dem Eise des Tschertschen-darja
+* Am Ufer des Tschertschen-darja
+* Sattma in Araltschi
+* Tränken der Pferde an einer Wake
+* Beim Dorfe Scheitlar
 
 :::: align-center
 ****
