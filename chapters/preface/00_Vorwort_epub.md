@@ -115,12 +115,12 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Falkner mit Jagdadler](ch011.xhtml#b115)
 * [Landung an der Mündung des Aksu-darja](ch011.xhtml#b117)
 * [Die Fähre an der Mündung des Aksu-darja](ch011.xhtml#b119)
-* Unser Nachtlager bei Ala Kunglei Busrugvar
-* Fischereigeräte der Hirten von Tellpel
-* Ein Hirt schenkt uns ein Schaf
-* Kähne auf dem mittelsten Tarim
-* Uns begleitende Kähne aus Tschimen
-* Besuch des Beks von Schah-jar in Tschimen (Separatbild)
+* [Unser Nachtlager bei Ala Kunglei Busrugvar](ch012.xhtml#b129)
+* [Fischereigeräte der Hirten von Tellpel](ch012.xhtml#b131)
+* [Ein Hirt schenkt uns ein Schaf](ch012.xhtml#b133)
+* [Kähne auf dem mittelsten Tarim](ch012.xhtml#b135)
+* [Besuch des Beks von Schah-jar in Tschimen](ch012.xhtml#b136) (Separatbild)
+* [Uns begleitende Kähne aus Tschimen](ch012.xhtml#b137)
 * Frühstücksrast auf dem Jumalak-darja (Separatbild)
 * Der See Koral-dungning-köll
 * Der Jumalak-darja von Koral-dung gesehen
