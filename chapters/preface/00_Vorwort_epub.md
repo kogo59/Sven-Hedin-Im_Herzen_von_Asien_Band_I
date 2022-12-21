@@ -121,10 +121,10 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Kähne auf dem mittelsten Tarim](ch012.xhtml#b135)
 * [Besuch des Beks von Schah-jar in Tschimen](ch012.xhtml#b136) (Separatbild)
 * [Uns begleitende Kähne aus Tschimen](ch012.xhtml#b137)
-* Frühstücksrast auf dem Jumalak-darja (Separatbild)
-* Der See Koral-dungning-köll
-* Der Jumalak-darja von Koral-dung gesehen
-* Rekognoszierender Kahn
+* [Frühstücksrast auf dem Jumalak-darja](ch013.xhtml#b144) (Separatbild)
+* [Der See Koral-dungning-köll](ch013.xhtml#b147)
+* [Der Jumalak-darja von Koral-dung gesehen](ch013.xhtml#b149)
+* [Rekognoszierender Kahn](ch013.xhtml#b151)
 * Drohender Schiffbruch (Separatbild)
 * Kähne auf dem unteren Tarim
 * Ördek und Palta als Lotsen (Separatbild)
