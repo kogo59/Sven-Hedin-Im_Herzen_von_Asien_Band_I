@@ -125,15 +125,15 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Der See Koral-dungning-köll](ch013.xhtml#b147)
 * [Der Jumalak-darja von Koral-dung gesehen](ch013.xhtml#b149)
 * [Rekognoszierender Kahn](ch013.xhtml#b151)
-* Drohender Schiffbruch (Separatbild)
-* Kähne auf dem unteren Tarim
-* Ördek und Palta als Lotsen (Separatbild)
-* Tokkus-kum, das Nordufer der Sandwüste
-* Dorf Al-kattik-tschekke
-* Treibeis auf dem unteren Tarim
-* Nächtlicher Kampf mit dem Treibeise  (bunte Tafel)
-* Blick vom rechten Tarimufer flußaufwärts (1. Dezemberr).
-* Begrüßung Parpi Bais und Islam Bais (Separatbild)
+* [Drohender Schiffbruch](ch014.xhtml#b156) (Separatbild)
+* [Kähne auf dem unteren Tarim](ch014.xhtml#b159)
+* [Ördek und Palta als Lotsen](ch014.xhtml#b160) (Separatbild)
+* [Tokkus-kum, das Nordufer der Sandwüste](ch014.xhtml#b161)
+* [Dorf Al-kattik-tschekke](ch014.xhtml#b163)
+* [Treibeis auf dem unteren Tarim](ch014.xhtml#b167)
+* [Nächtlicher Kampf mit dem Treibeise](ch014.xhtml#b168)  (bunte Tafel)
+* [Blick vom rechten Tarimufer flußaufwärts (1. Dezember)](ch014.xhtml#b169)
+* [Begrüßung Parpi Bais und Islam Bais](ch014.xhtml#b174) (Separatbild)
 * Die Fähre an der Mündung des Ugen-darja
 * Kleine gebundene Dünen bei Karaul
 * Verlassene Hütten am Seit-köll

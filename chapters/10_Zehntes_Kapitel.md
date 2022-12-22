@@ -291,38 +291,125 @@ denn er war schmal wie eine Wanne, alle Männer ruderten im Stehen, aber nur der
 letzte Mann war sichtbar, und die vier Ruder wurden ohne Takt ins Wasser
 getaucht. Noch wuchs das Schilf ziemlich dicht, aber struppig durcheinander und
 stand in Gürteln und unterbrochenen Feldern. Die Richtung des
+Bettes ist unbestimmt; große, abgerundete Bogen gibt es nicht, wohl aber kleine,
+die sozusagen nach dem einzuschlagenden Kurse umhersuchen und tasten. Die
+Wassermasse teilt sich unaufhörlich um kleine Holme, wo man den verkehrten Weg
+einschlagen könnte, wenn nicht die Kähne vorausgingen und die Ruderer mit den
+Rudern sondierten. Enge Passagen, steckengebliebene Pappelstämme, Anhäufungen
+von Kamischwurzeln und Reisig, scharfe Ecken und rauschende Stromschnellen
+halten uns in beständiger Spannung. Daß das Bett sich neugebildet hat, sieht man
+auch daran, daß hier und dort mitten darin frische Pappeln stehen, die aber zum
+Tode verurteilt sind. Sie waren so gefährlich und drohend, daß wir das Zelt und
+das meteorologische Häuschen abnehmen mußten. Rechts hatten wir eine ganze Reihe
+Seen; der letzte von ihnen heißt *Buja-köll* und mündet wieder in den Hauptfluß
+ein; der Vereinigungspunkt bildet ein Labyrinth von kleinen Eilanden.
 
-Bettes ist unbestimmt; große, abgerundete Bogen gibt es nicht, wohl aber kleine, die sozusagen nach dem einzuschlagenden Kurse umhersuchen und tasten. Die Wassermasse teilt sich unaufhörlich um kleine Holme, wo man den verkehrten Weg einschlagen könnte, wenn nicht die Kähne vorausgingen und die Ruderer mit den Rudern sondierten. Enge Passagen, steckengebliebene Pappelstämme, Anhäufungen von Kamischwurzeln und Reisig, scharfe Ecken und rauschende Stromschnellen halten uns in beständiger Spannung. Daß das Bett sich neugebildet hat, sieht man auch daran, daß hier und dort mitten darin frische Pappeln stehen, die aber zum Tode verurteilt sind. Sie waren so gefährlich und drohend, daß wir das Zelt und das meteorologische Häuschen abnehmen mußten.
-Rechts hatten wir eine ganze Reihe Seen; der letzte von ihnen heißt *Buja-köll* und mündet wieder in den Hauptfluß ein; der Vereinigungspunkt bildet ein Labyrinth von kleinen Eilanden.
+Hinter dieser Stelle tritt die *Tschong-ak-kum*, wie die große Sandwüste hier
+genannt wird, auf. Die Dünen rücken uns auf beiden Seiten immer näher, und der
+Vegetationsgürtel schrumpft plötzlich zusammen.
 
-Hinter dieser Stelle tritt die *Tschong-ak-kum*, wie die große Sandwüste hier genannt wird, auf. Die Dünen rücken uns auf beiden Seiten immer näher, und der Vegetationsgürtel schrumpft plötzlich zusammen.
+Als die Dämmerung hereinbrach, siedelte ich in die Jolle über und folgte dem
+Geschwader der Lopleute. Mit schwindelnder Fahrt ging es über kleine
+Wasserfälle, und man befand sich in ununterbrochener Spannung. Als wir in die
+Sandwüste hineinkamen und auf beiden Seiten hohe Dünen hatten, wurde es Nacht,
+und wir machten Rast. Die Lopleute hatten Treibholz in ihren Kähnen gesammelt,
+und bald erhellten zwei schöne Feuer die Wüstenlandschaft und ihren unverhofften
+Gast, den Jumalak-darja. Der Fluß wird hier auch Tärim, Jangidarja oder
+Tschong-darja genannt.
 
-Als die Dämmerung hereinbrach, siedelte ich in die Jolle über und folgte dem Geschwader der Lopleute. Mit schwindelnder Fahrt ging es über kleine Wasserfälle, und man befand sich in ununterbrochener Spannung. Als wir in die Sandwüste hineinkamen und auf beiden Seiten hohe Dünen hatten, wurde es Nacht, und wir machten Rast.
-Die Lopleute hatten Treibholz in ihren Kähnen gesammelt, und bald erhellten zwei schöne Feuer die Wüstenlandschaft und ihren unverhofften Gast, den Jumalak-darja. Der Fluß wird hier auch Tärim, Jangidarja oder Tschong-darja genannt.
+&nbsp;22. November. Der Jumalak-darja fließt nach Südosten; sein vier Jahre
+altes Bett bohrt sich durch die peripherischen Teile des öden Wüstenmeeres, und
+die Dünen, die es gewagt haben, sich ihm in den Weg zu stellen, sind von
+unwiderstehlichen Wassermassen über den Haufen geworfen worden. Der Sand ist
+ohnmächtig dieser wilden Kraft gegenüber, die, den Fallgesetzen gehorchend, die
+tausendjährige Wüste durchbricht, sich zwischen den aufgestellten Sandwogen
+einen Weg bahnt und an ihrer Basis zehrt.
 
-&nbsp;22. November. Der Jumalak-darja fließt nach Südosten; sein vier Jahre altes Bett bohrt sich durch die peripherischen Teile des öden Wüstenmeeres, und die Dünen, die es gewagt haben, sich ihm in den Weg zu stellen, sind von unwiderstehlichen Wassermassen über den Haufen geworfen worden. Der Sand ist ohnmächtig dieser wilden Kraft gegenüber, die, den Fallgesetzen gehorchend, die tausendjährige Wüste durchbricht, sich zwischen den aufgestellten Sandwogen einen Weg bahnt und an ihrer Basis zehrt.
+Auf beiden Seiten erheben sich Dünen bis zu 15 Meter Höhe, auf dem rechten Ufer
+aber, wo der Sand mächtiger ist, ist er oft auch unfruchtbar. Dann und wann
+passieren wir eine einsame Pappel, während die Tamarisken, diese Kinder des
+Wüstensandes, recht zahlreich auftreten und schmale Kamischbänder sich meistens
+an beiden Ufern hinziehen. Es ist merkwürdig, daß die Dünen eine so feste Basis
+haben können, daß sie aus der Wasserfläche als ganz senkrechte Wand emporsteigen
+können; dies kommt daher, daß sie unten feucht sind. Höher hinauf ist der Sand
+ebenso lose wie gewöhnlich; er rieselt in kleinen Furchen an der Düne herunter
+und bildet da, wo die senkrechte Wand anfängt, kleine Kaskaden und Fälle, und er
+fährt so lange fort zu rinnen, als er von oben herab Zufuhr erhält; läuft aber
+das Stundenglas ab, so ist die Düne tot und von Wind und Wellen fortgetragen.
+Doch unter anderen Formen wird sie wieder auferstehen und ihre rastlose
+Wanderung fortsetzen. Auch das Wüstenmeer hat sein Leben, das hier ebenso
+gesetzmäßig pulsiert wie im Schatten der Palmen.
 
-Auf beiden Seiten erheben sich Dünen bis zu 15 Meter Höhe, auf dem rechten Ufer aber, wo der Sand mächtiger ist, ist er oft auch unfruchtbar. Dann und wann passieren wir eine einsame Pappel, während die Tamarisken, diese Kinder des Wüstensandes, recht zahlreich auftreten und schmale Kamischbänder sich meistens an beiden Ufern hinziehen.
-Es ist merkwürdig, daß die Dünen eine so feste Basis haben können, daß sie aus der Wasserfläche als ganz senkrechte Wand emporsteigen können; dies kommt daher, daß sie unten feucht sind. Höher hinauf ist der Sand ebenso lose wie gewöhnlich; er rieselt in kleinen Furchen an der Düne herunter und bildet da, wo die senkrechte Wand anfängt, kleine Kaskaden und Fälle, und er fährt so lange fort zu rinnen, als er von oben herab Zufuhr erhält; läuft aber das Stundenglas ab, so ist die Düne tot und von Wind und Wellen fortgetragen. Doch unter anderen Formen wird sie wieder auferstehen und ihre rastlose Wanderung fortsetzen. Auch das Wüstenmeer hat sein Leben, das hier ebenso gesetzmäßig pulsiert wie im Schatten der Palmen.
+Auf diesen unglaublich öden Ufern sah alles tot aus; keine Menschen, keine
+Tiere, nicht einmal Raben und Geier, diese Gäste der Einöden. Nur ein „Saldam“
+war in einer Pappel zu sehen; es ist eine aus Ästen und Zweigen geflochtene Art
+Nest, in dem sich der Schütze versteckt, wenn er auf die Antilopen wartet, die
+bei Sonnenaufgang zur Tränke kommen. Wieder sind wir von Friedhofstille umgeben;
+kein Gruß dringt aus der Tiefe der Wüste zu uns, nur die Strömung singt dem
+Sande ihr murmelndes Lied, das auf den Lippen des Tarim bald im Froste erstarren
+wird.
 
-Auf diesen unglaublich öden Ufern sah alles tot aus; keine Menschen, keine Tiere, nicht einmal Raben und Geier, diese Gäste der Einöden.
-Nur ein „Saldam“ war in einer Pappel zu sehen; es ist eine aus Ästen und Zweigen geflochtene Art Nest, in dem sich der Schütze versteckt, wenn er auf die Antilopen wartet, die bei Sonnenaufgang zur Tränke kommen. Wieder sind wir von Friedhofstille umgeben; kein Gruß dringt aus der Tiefe der Wüste zu uns, nur die Strömung singt dem Sande ihr murmelndes Lied, das auf den Lippen des Tarim bald im Froste erstarren wird.
+Dieselbe Strömung führt uns mit jeder verrinnenden Stunde immer tiefer in die
+Dünen hinein. Mit seltsamen Gefühlen gleitet man in diesem unbekannten Lande,
+das nicht einmal unsere Lopmänner je besucht hatten, auf dem Wasser dahin.
+Jetzt, wenn jemals, dienten sie als Avisos. Sie senken die Ruder ins Wasser und
+verschwinden in der nächsten Biegung, sie sind eine Weile außer Sicht, tauchen
+aber wieder vor uns auf, sobald sie eine kritische Stelle bemerkt haben. Sie
+umfahren uns wie Schaluppen eine Fregatte, gehen dann voraus und zeigen das
+Fahrwasser. Und die schwere Fähre gleitet ruhig den Jumalakdarja hinab.
+Wunderbar, diese Sandwüste — auf dem *Wasser* zu durchkreuzen; einst war ich in
+derselben Wüste aus Mangel an Wasser fast verschmachtet!
 
-Dieselbe Strömung führt uns mit jeder verrinnenden Stunde immer tiefer in die Dünen hinein. Mit seltsamen Gefühlen gleitet man in diesem unbekannten Lande, das nicht einmal unsere Lopmänner je besucht hatten, auf dem Wasser dahin. Jetzt, wenn jemals, dienten sie als Avisos. Sie senken die Ruder ins Wasser und verschwinden in der nächsten Biegung, sie sind eine Weile außer Sicht, tauchen aber 
-wieder vor uns auf, sobald sie eine kritische Stelle bemerkt haben. Sie umfahren uns wie Schaluppen eine Fregatte, gehen dann voraus und zeigen das Fahrwasser. Und die schwere Fähre gleitet ruhig den Jumalakdarja hinab. Wunderbar, diese Sandwüste — auf dem *Wasser* zu durchkreuzen; einst war ich in derselben Wüste aus Mangel an Wasser fast verschmachtet!
+Einmal verkündeten die Kahnleute, daß sich der Fluß in fünf Arme teile. Sie
+führten uns nach demjenigen, den sie für den größten hielten. Das Wasser
+schäumte weiß zwischen ein paar Reisigholmen; es galt, den rechten Kurs zu
+halten. Die Fähre glitt in den Durchgang hinein, schrammte auf beiden Seiten,
+gelangte wieder in offenes Wasser und stieß dort auf Grund. Das Bett war
+querüber gleich mäßig seicht, aber vorwärts mußten wir, und wir kamen auch über
+diese Stelle hinweg, dank den wenigen Zentimetern, die das Wasser während des
+letzten Tages gestiegen war; wäre es um ebenso viel gefallen, so wäre es uns
+schlimm gegangen. Wie oft streifte der Boden der Fähre unmittelbar über Bänke
+und Untiefen hin, ohne daß wir es ahnten! Vielleicht oft so dicht, daß nicht ein
+Blatt Papier dazwischen Raum gefunden hätte. Noch war uns aber der Fluß gewogen,
+noch führte er uns vorwärts, dem Ziele entgegen.
 
-Einmal verkündeten die Kahnleute, daß sich der Fluß in fünf Arme teile. Sie führten uns nach demjenigen, den sie für den größten hielten. Das Wasser schäumte weiß zwischen ein paar Reisigholmen; es galt, den rechten Kurs zu halten. Die Fähre glitt in den Durchgang hinein, schrammte auf beiden Seiten, gelangte wieder in offenes Wasser und stieß dort auf Grund. Das Bett war querüber gleich mäßig seicht, aber vorwärts mußten wir, und wir kamen auch über diese Stelle hinweg, dank den wenigen Zentimetern, die das Wasser während des letzten Tages gestiegen war; wäre es um ebenso viel gefallen, so wäre es uns schlimm gegangen. Wie oft streifte der Boden der Fähre unmittelbar über Bänke und Untiefen hin, ohne daß wir es ahnten!
-Vielleicht oft so dicht, daß nicht ein Blatt Papier dazwischen Raum gefunden hätte. Noch war uns aber der Fluß gewogen, noch führte er uns vorwärts, dem Ziele entgegen.
+In einem Tograkhaine, wo wir eine Weile landeten, waren sehr viele Tigerspuren.
+Wir gingen eine Strecke landein und hielten von Hügeln Ausschau, doch ist es mir
+nie geglückt, dieses grausame, in seiner imponierenden Kraft dennoch fesselnde
+Tier zu Gesicht zu bekommen.
 
-In einem Tograkhaine, wo wir eine Weile landeten, waren sehr viele Tigerspuren. Wir gingen eine Strecke landein und hielten von Hügeln Ausschau, doch ist es mir nie geglückt, dieses grausame, in seiner imponierenden Kraft dennoch fesselnde Tier zu Gesicht zu bekommen.
+Der ganze Jangi-darja oder „neue Fluß“ gibt uns wieder einen Beweis für die
+Neigung des Flusses, nach rechts zu drängen. Am linken Ufer finden wir, daß das
+Wasser nach dem Flusse zurückstrebt, am rechten, daß es sich von ihm zu trennen
+sucht, um das Terrain immer weiter nach rechts hin vorzubereiten. In alten
+Zeiten ergoß sich der Tarim in den alten, nördlichen See Lop-nor, jetzt mündet
+der Fluß in den südlichen; diese Verlegung der Mündung war ein Riesenschritt
+nach rechts.
 
-Der ganze Jangi-darja oder „neue Fluß“ gibt uns wieder einen Beweis für die Neigung des Flusses, nach rechts zu drängen. Am linken Ufer finden wir, daß das Wasser nach dem Flusse zurückstrebt, am rechten, daß es sich von ihm zu trennen sucht, um das Terrain immer weiter nach rechts hin vorzubereiten. In alten Zeiten ergoß sich der Tarim in den alten, nördlichen See Lop-nor, jetzt mündet der Fluß in den südlichen; diese Verlegung der Mündung war ein Riesenschritt nach rechts.
+Während der letzten Tage sahen wir nicht viel Eis; die Strömung war zu reißend,
+als daß es sich hätte ansetzen können. Doch ging die Temperatur schon gegen 8
+Uhr auf —6° herunter. Mit jedem Tage wird der Wettlauf zwischen uns und dem
+Zufrieren des Flusses immer interessanter. Viele Tage konnten wir nicht mehr vor
+uns haben, denn die Kälte wurde von Nacht zu Nacht größer. Doch so lange wir die
+Fähre behalten durften, war es herrlich, und mit Zittern und Zagen dachte ich an
+den Tag, an welchem wir gezwungen sein würden, uns von unserem gesicherten Heim
+zu trennen und unsere schwimmende Wohnung im Stiche zu lassen. Wie man das Haus
+liebt, in dem man lange behaglich gewohnt hat, so würde ich diese Flotte, die
+uns so treu durch Ostturkestan getragen hatte, vermissen. Ich würde die große
+Annehmlichkeit vermissen, Tag und Nacht das Lager aufgeschlagen zu wissen, alles
+fertig und alles bereit zu haben, keine Arbeit zu haben mit Belasten und
+Abladen, Zeltaufschlagen und Füttern der Karawanentiere. Jeden Augenblick hatte
+ich die Dunkelkammer zur Verfügung und brauchte nur meine Hand mit einem Becher
+auszustrecken, um ihn mit süßem, kaltem Wasser gefüllt zurückzuziehen.
 
-Während der letzten Tage sahen wir nicht viel Eis; die Strömung war zu reißend, als daß es sich hätte ansetzen können. Doch ging die Temperatur schon gegen 8 Uhr auf —6° herunter. Mit jedem Tage wird der Wettlauf zwischen uns und dem Zufrieren des Flusses immer interessanter. Viele Tage konnten wir nicht mehr vor uns haben, denn die Kälte wurde von Nacht zu Nacht größer. Doch so lange wir die Fähre behalten durften, war es herrlich, und mit Zittern und Zagen dachte ich an den Tag, an welchem wir gezwungen sein würden, uns von unserem gesicherten Heim zu trennen und unsere schwimmende Wohnung im Stiche zu lassen. Wie man das Haus liebt, in dem man lange behaglich gewohnt hat, so würde ich diese Flotte, die uns so treu durch Ostturkestan getragen hatte, vermissen. Ich würde die große Annehmlichkeit vermissen, Tag und Nacht das Lager aufgeschlagen zu wissen, alles fertig und alles bereit zu haben, keine Arbeit zu haben mit Belasten und Abladen, Zeltaufschlagen und Füttern der Karawanentiere.
-Jeden Augenblick hatte ich die Dunkelkammer zur Verfügung und brauchte nur meine Hand mit einem Becher auszustrecken, um ihn mit süßem, kaltem Wasser gefüllt zurückzuziehen.
-
-Am 23. November hatten wir noch immer 70,<small>7</small> Kubikmeter Wasser.
-Es langte also noch, aber das Eis — wann würde dieses uns den Weg abschneiden? Wir wollten vorwärtsgehen, bis wir die Eisfesseln nicht mehr sprengen konnten, und wenn wir dann einfrören, würden wir ins Winterquartier gehen, ein großes Lager anlegen und die Karawane auf suchen. Landeten wir in einer waldlosen Gegend, so sollte der Rumpf der Fähre Stück für Stück als Brennholz verwendet werden. Die alte, gute Fähre! Es sollte ihr Lohn sein, daß sie uns, nachdem sie uns ans Ziel getragen, auch im Loplande an den Winterabenden Licht und Wärme spendete!
+Am 23. November hatten wir noch immer 70,<small>7</small> Kubikmeter Wasser. Es
+langte also noch, aber das Eis — wann würde dieses uns den Weg abschneiden? Wir
+wollten vorwärtsgehen, bis wir die Eisfesseln nicht mehr sprengen konnten, und
+wenn wir dann einfrören, würden wir ins Winterquartier gehen, ein großes Lager
+anlegen und die Karawane auf suchen. Landeten wir in einer waldlosen Gegend, so
+sollte der Rumpf der Fähre Stück für Stück als Brennholz verwendet werden. Die
+alte, gute Fähre! Es sollte ihr Lohn sein, daß sie uns, nachdem sie uns ans Ziel
+getragen, auch im Loplande an den Winterabenden Licht und Wärme spendete!
 
 :::
 
