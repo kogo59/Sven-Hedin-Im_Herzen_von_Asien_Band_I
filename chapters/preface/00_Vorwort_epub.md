@@ -134,11 +134,11 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Nächtlicher Kampf mit dem Treibeise](ch014.xhtml#b168)  (bunte Tafel)
 * [Blick vom rechten Tarimufer flußaufwärts (1. Dezember)](ch014.xhtml#b169)
 * [Begrüßung Parpi Bais und Islam Bais](ch014.xhtml#b174) (Separatbild)
-* Die Fähre an der Mündung des Ugen-darja
-* Kleine gebundene Dünen bei Karaul
-* Verlassene Hütten am Seit-köll
-* Winterquartier in Jangi-köll mit meinen Leuten
-* Unser. Hauptquartier Tura-sallgan-ui
+* [Die Fähre an der Mündung des Ugen-darja](ch015.xhtml#b177)
+* [Kleine gebundene Dünen bei Karaul](ch015.xhtml#b179)
+* [Verlassene Hütten am Seit-köll](ch015.xhtml#b181)
+* [Winterquartier in Jangi-köll mit meinen Leuten](ch015.xhtml#b187)
+* [Unser Hauptquartier Tura-sallgan-ui](ch015.xhtml#b189)
 * Hütten in Aktarma, einem unserer Nachbardörfer
 * Zusammentreffen mit dem Franzosen Bonin (Separatbild)
 * Bonin im Hauptquartier (Separatbild)
