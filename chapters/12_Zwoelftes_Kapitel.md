@@ -338,7 +338,7 @@ auch auf dem Wege nach Lhasa, und als er zwei Jahre später spurlos verschwand,
 trauerten alle um ihn. Ich liebe die Hunde; sie gehen mit ihrem ganzen Wesen in
 den Mühen des Karawanenlebens auf und tun stets ihre Pflicht.
 
-:::: {.wrap-80  }
+:::: {.wrap-80 }
 ![Unser Hauptquartier Tura-sallgan-ui.](Im_Herzen_von_Asien_I_189.jpg "Unser Hauptquartier Tura-sallgan-ui."){#b189}
 ::::
 
