@@ -139,13 +139,13 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Verlassene Hütten am Seit-köll](ch015.xhtml#b181)
 * [Winterquartier in Jangi-köll mit meinen Leuten](ch015.xhtml#b187)
 * [Unser Hauptquartier Tura-sallgan-ui](ch015.xhtml#b189)
-* Hütten in Aktarma, einem unserer Nachbardörfer
-* Zusammentreffen mit dem Franzosen Bonin (Separatbild)
-* Bonin im Hauptquartier (Separatbild)
-* Parpi, Palta und Islam auf den äußersten Dünen des Sandmeeres am Jangi-köll
-* Sandsturm in der Wüste (Separatbild)
-* Abstieg über den steilen Abfall einer Sanddüne (Separatbild)
-* Die Karawane zwischen Bergen von Flugsand hinziehen.
+* [Hütten in Aktarma, einem unserer Nachbardörfer](ch016.xhtml#b197)
+* [Zusammentreffen mit dem Franzosen Bonin](ch016.xhtml#b200) (Separatbild)
+* [Bonin im Hauptquartier](ch016.xhtml#b205) (Separatbild)
+* [Parpi, Palta und Islam auf den äußersten Dünen des Sandmeeres am Jangi-köll](ch017.xhtml#b209)
+* [Sandsturm in der Wüste](ch017.xhtml#b212) (Separatbild)
+* [Abstieg über den steilen Abfall einer Sanddüne](ch017.xhtml#b216) (Separatbild)
+* [Die Karawane zwischen Bergen von Flugsand hinziehend.](ch017.xhtml#b219)
 * Das endlose Wüstenmeer
 * Beladenes Kamel
 * Karawane auf dem Astin-joll
