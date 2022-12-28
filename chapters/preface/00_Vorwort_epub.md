@@ -146,8 +146,8 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Sandsturm in der Wüste](ch017.xhtml#b212) (Separatbild)
 * [Abstieg über den steilen Abfall einer Sanddüne](ch017.xhtml#b216) (Separatbild)
 * [Die Karawane zwischen Bergen von Flugsand hinziehend.](ch017.xhtml#b219)
-* Das endlose Wüstenmeer
-* Beladenes Kamel
+* [Das endlose Wüstenmeer](ch018.xhtml#b225)
+* [Beladenes Kamel](ch018.xhtml#b237)
 * Karawane auf dem Astin-joll
 * Hirtenhütten in Schudang
 * Das alte Bett des Tschertschen-darja
