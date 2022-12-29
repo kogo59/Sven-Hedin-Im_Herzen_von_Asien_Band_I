@@ -148,8 +148,8 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Die Karawane zwischen Bergen von Flugsand hinziehend.](ch017.xhtml#b219)
 * [Das endlose Wüstenmeer](ch018.xhtml#b225)
 * [Beladenes Kamel](ch018.xhtml#b237)
-* Karawane auf dem Astin-joll
-* Hirtenhütten in Schudang
+* [Karawane auf dem Astin-joll](ch019.xhtml#b243)
+* [Hirtenhütten in Schudang](ch019.xhtml#b245)
 * Das alte Bett des Tschertschen-darja
 * Eine alte Tograk am Tschertschen-darja
 * Pappel am unteren Tarim
