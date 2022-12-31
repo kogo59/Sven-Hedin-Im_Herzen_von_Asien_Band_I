@@ -150,13 +150,13 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Beladenes Kamel](ch018.xhtml#b237)
 * [Karawane auf dem Astin-joll](ch019.xhtml#b243)
 * [Hirtenhütten in Schudang](ch019.xhtml#b245)
-* Das alte Bett des Tschertschen-darja
-* Eine alte Tograk am Tschertschen-darja
-* Pappel am unteren Tarim
-* Auf dem Eise des Tschertschen-darja
-* Am Ufer des Tschertschen-darja
-* Sattma in Araltschi
-* Tränken der Pferde an einer Wake
+* [Das alte Bett des Tschertschen-darja](ch020.xhtml#b251)
+* [Eine alte Tograk am Tschertschen-darja](ch020.xhtml#b252)
+* [Pappel am unteren Tarim](ch020.xhtml#b253)
+* [Auf dem Eise des Tschertschen-darja](ch020.xhtml#b257)
+* [Am Ufer des Tschertschen-darja](ch020.xhtml#b259)
+* [Sattma in Araltschi](ch020.xhtml#b261)
+* [Tränken der Pferde an einer Wake](ch020.xhtml#b263)
 * Beim Dorfe Scheitlar
 
 :::: align-center

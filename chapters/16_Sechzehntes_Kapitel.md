@@ -139,7 +139,6 @@ an einem Masar vorbeiritten, blieb er stehen und strich sich mit den Handfläche
 ![Hirtenhütten in Schudang.](Im_Herzen_von_Asien_I_245.jpg "Hirtenhütten in Schudang."){#b245}
 ::::
 
-
 Am Morgen des 22. Januars waren wir wieder ganz eingeschneit. Wir verlassen
 jetzt die Straße und schlagen auf ungebahnten Wegen die Richtung nach der „alten
 Stadt“ ein. Das Terrain war scheußlich. Zwischen einem Chaos von
