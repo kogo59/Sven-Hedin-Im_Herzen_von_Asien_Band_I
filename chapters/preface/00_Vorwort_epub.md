@@ -157,7 +157,54 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Am Ufer des Tschertschen-darja](ch020.xhtml#b259)
 * [Sattma in Araltschi](ch020.xhtml#b261)
 * [Tränken der Pferde an einer Wake](ch020.xhtml#b263)
-* Beim Dorfe Scheitlar
+* [Beim Dorfe Scheitlar](ch021.xhtml#b269)
+* [Schilfhütten in Scheitlar](ch021.xhtml#b271)
+* [Meine Kosaken Tschernoff, Sirkin und Schagdur](ch021.xhtml#b272) (Separatbild)
+* [Pappelhain im Tarimdelta](ch021.xhtml#b273) 
+* [Eine kleine Brücke in der Nähe von Jangi-köll](ch021.xhtml#b275)
+* [Meine burjatischen Kosaken Tscherdon und Schagdur (mit tibetischer Jagdbeute)](ch021.xhtml#b277)
+* Basch-tograk
+* Tamariskendickicht
+* Der Teich bei Kurbantschik
+* Tal zwischen Kurbantschik und Budschentu-bulak
+* Tograk-bulak
+* Auf dem Wege nach Budschentu-bulak
+* Ruine bei Jing-pen
+* Tschernoffs wildes Kamel
+* Eines unserer zahmen Kamele
+* Abdu Rehims Beute (Separatbild)
+* Eisschollen in der Oase Altimisch-bulak
+* Abdu Rehims wildes Kamel
+* Trümmer menschlicher Wohnungen in der Wüste
+* Gebände auf Tonsockeln
+* Tschernoff und Abdu Rehim bei einem Tora in der Wüste
+* Tschernoff in den Ruinen
+* Aufrechtstehender Türpfosten
+* Einige von Ordeks Trophäen
+* Der Platz von Ördeks Entdeckung (ein Jahr später photographiert)
+* Ein Tschappgan auf dem Kara-koschun
+* Nordufer des Sees Kara-koschun
+* Ördek im Schilf unterhalb Kum-tschappgan
+* Transport der Kähne über Land (Separatbild)
+* Transport der Kähne über eine Landenge
+* Hütten bei Jekken-öi
+* Flußmessung bei Schirge-tschappgan
+* In brennendem Schilfe (bunte Tafel)
+* Der Tarim bei Schirge-tschappgan
+* Mündung des Merdek-Armes in die Wüste
+* Brücke über den Zlel
+* Unsere Kähne auf dem Jlek
+* Pappeln am Ufer des Jlek
+* Im Schilfe auf dem Suji-sarik-köll
+* Unsere Kähne bei einem Nachtlager
+* Brücke bei: Tikkenlik
+* Der Kalmak-ottogo-Arm
+* Jugend am Ufer des Tarim
+* Malenki und Maltschik
+* Neugierige Frauen und Kinder
+* Gewaltige Sanddünen am rechten Tarimufer (Separatbild)
+* Dünen auf dem rechten Tarimufer
+
 
 :::: align-center
 ****
