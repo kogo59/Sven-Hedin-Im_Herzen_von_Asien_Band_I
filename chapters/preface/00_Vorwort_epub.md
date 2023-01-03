@@ -172,9 +172,9 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Ruine bei Jing-pen](ch022.xhtml#b287)
 * [Tschernoffs wildes Kamel](ch022.xhtml#b296)
 * [Eines unserer zahmen Kamele](ch022.xhtml#b297)
-* Abdu Rehims Beute (Separatbild)
-* Eisschollen in der Oase Altimisch-bulak
-* Abdu Rehims wildes Kamel
+* [Abdu Rehims Beute](ch023.xhtml#b308) (Separatbild)
+* [Eisschollen in der Oase Altimisch-bulak](ch023.xhtml#b310)
+* [Abdu Rehims wildes Kamel](ch023.xhtml#b313)
 * Trümmer menschlicher Wohnungen in der Wüste
 * Gebände auf Tonsockeln
 * Tschernoff und Abdu Rehim bei einem Tora in der Wüste
