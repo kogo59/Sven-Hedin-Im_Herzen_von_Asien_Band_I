@@ -163,15 +163,15 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Pappelhain im Tarimdelta](ch021.xhtml#b273) 
 * [Eine kleine Brücke in der Nähe von Jangi-köll](ch021.xhtml#b275)
 * [Meine burjatischen Kosaken Tscherdon und Schagdur (mit tibetischer Jagdbeute)](ch021.xhtml#b277)
-* Basch-tograk
-* Tamariskendickicht
-* Der Teich bei Kurbantschik
-* Tal zwischen Kurbantschik und Budschentu-bulak
-* Tograk-bulak
-* Auf dem Wege nach Budschentu-bulak
-* Ruine bei Jing-pen
-* Tschernoffs wildes Kamel
-* Eines unserer zahmen Kamele
+* [Basch-tograk](ch022.xhtml#b281)
+* [Tamariskendickicht](ch022.xhtml#b282)
+* [Der Teich bei Kurbantschik](ch022.xhtml#b283)
+* [Tal zwischen Kurbantschik und Budschentu-bulak](ch022.xhtml#b284)
+* [Tograk-bulak](ch022.xhtml#b285)
+* [Auf dem Wege nach Budschentu-bulak](ch022.xhtml#b286)
+* [Ruine bei Jing-pen](ch022.xhtml#b287)
+* [Tschernoffs wildes Kamel](ch022.xhtml#b296)
+* [Eines unserer zahmen Kamele](ch022.xhtml#b297)
 * Abdu Rehims Beute (Separatbild)
 * Eisschollen in der Oase Altimisch-bulak
 * Abdu Rehims wildes Kamel
