@@ -175,13 +175,13 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Abdu Rehims Beute](ch023.xhtml#b308) (Separatbild)
 * [Eisschollen in der Oase Altimisch-bulak](ch023.xhtml#b310)
 * [Abdu Rehims wildes Kamel](ch023.xhtml#b313)
-* Trümmer menschlicher Wohnungen in der Wüste
-* Gebände auf Tonsockeln
-* Tschernoff und Abdu Rehim bei einem Tora in der Wüste
-* Tschernoff in den Ruinen
-* Aufrechtstehender Türpfosten
-* Einige von Ordeks Trophäen
-* Der Platz von Ördeks Entdeckung (ein Jahr später photographiert)
+* [Trümmer menschlicher Wohnungen in der Wüste](ch024.xhtml#b318)
+* [Gebäude auf Tonsockeln](ch024.xhtml#b319)
+* [Tschernoff und Abdu Rehim bei einem Tora in der Wüste](ch024.xhtml#b321)
+* [Tschernoff in den Ruinen](ch024.xhtml#b322)
+* [Aufrechtstehender Türpfosten](ch024.xhtml#b323)
+* [Einige von Ordeks Trophäen](ch024.xhtml#b325)
+* [Der Platz von Ördeks Entdeckung (ein Jahr später photographiert)](ch024.xhtml#b325)
 * Ein Tschappgan auf dem Kara-koschun
 * Nordufer des Sees Kara-koschun
 * Ördek im Schilf unterhalb Kum-tschappgan
