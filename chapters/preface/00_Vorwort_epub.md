@@ -181,24 +181,24 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Tschernoff in den Ruinen](ch024.xhtml#b322)
 * [Aufrechtstehender Türpfosten](ch024.xhtml#b323)
 * [Einige von Ordeks Trophäen](ch024.xhtml#b325)
-* [Der Platz von Ördeks Entdeckung (ein Jahr später photographiert)](ch024.xhtml#b325)
-* Ein Tschappgan auf dem Kara-koschun
-* Nordufer des Sees Kara-koschun
-* Ördek im Schilf unterhalb Kum-tschappgan
-* Transport der Kähne über Land (Separatbild)
-* Transport der Kähne über eine Landenge
-* Hütten bei Jekken-öi
-* Flußmessung bei Schirge-tschappgan
-* In brennendem Schilfe (bunte Tafel)
-* Der Tarim bei Schirge-tschappgan
-* Mündung des Merdek-Armes in die Wüste
-* Brücke über den Zlel
-* Unsere Kähne auf dem Jlek
-* Pappeln am Ufer des Jlek
-* Im Schilfe auf dem Suji-sarik-köll
-* Unsere Kähne bei einem Nachtlager
-* Brücke bei: Tikkenlik
-* Der Kalmak-ottogo-Arm
+* [Der Platz von Ördeks Entdeckung (ein Jahr später photographiert)](ch024.xhtml#b327)
+* [Ein Tschappgan auf dem Kara-koschun](ch025.xhtml#b333)
+* [Nordufer des Sees Kara-koschun](ch025.xhtml#b335)
+* [Ördek im Schilf unterhalb Kum-tschappgan](ch025.xhtml#b337)
+* [Transport der Kähne über Land](ch025.xhtml#b338) (Separatbild)
+* [Transport der Kähne über eine Landenge](ch025.xhtml#b341)
+* [Hütten bei Jekken-öi](ch025.xhtml#b343)
+* [Flußmessung bei Schirge-tschappgan](ch025.xhtml#b344)
+* [In brennendem Schilfe](ch025.xhtml#b344a) (bunte Tafel)
+* [Der Tarim bei Schirge-tschappgan](ch025.xhtml#b345)
+* [Mündung des Merdek-Armes in die Wüste](ch025.xhtml#b346)
+* [Brücke über den Jlek](ch025.xhtml#b347)
+* [Unsere Kähne auf dem Jlek](ch025.xhtml#b348)
+* [Pappeln am Ufer des Jlek](ch025.xhtml#b349)
+* [Im Schilfe auf dem Suji-sarik-köll](ch025.xhtml#b350)
+* [Unsere Kähne bei einem Nachtlager](ch025.xhtml#b351)
+* [Brücke bei Tikkenlik](ch025.xhtml#b352)
+* [Der Kalmak-ottogo-Arm](ch025.xhtml#b353)
 * Jugend am Ufer des Tarim
 * Malenki und Maltschik
 * Neugierige Frauen und Kinder
