@@ -199,11 +199,57 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Unsere Kähne bei einem Nachtlager](ch025.xhtml#b351)
 * [Brücke bei Tikkenlik](ch025.xhtml#b352)
 * [Der Kalmak-ottogo-Arm](ch025.xhtml#b353)
-* Jugend am Ufer des Tarim
-* Malenki und Maltschik
-* Neugierige Frauen und Kinder
-* Gewaltige Sanddünen am rechten Tarimufer (Separatbild)
-* Dünen auf dem rechten Tarimufer
+* [Jugend am Ufer des Tarim](ch026.xhtml#b357)
+* [Malenki und Maltschik](ch026.xhtml#b359)
+* [Neugierige Frauen und Kinder](ch026.xhtml#b363)
+* [Gewaltige Sanddünen am rechten Tarimufer](ch026.xhtml#b364) (Separatbild)
+* [Dünen auf dem rechten Tarimufer](ch026.xhtml#b365)
+* [Sandsturm auf dem Beglik-köll](ch026.xhtml#b368) (Separatbild)
+* [Die Fähre sitzt auf dem Tuwadaku-köll im Schilfe fest](ch026.xhtml#b369)
+* [Ausblick von der Vorderkajüte der Fähre](ch026.xhtml#b371)
+* Der Tarim bei Schirge-tschappgan
+* Frauen und Kinder in Tscheggelik-ui
+* Stall in Tscheggelik-ui
+* Der Bau der Pontonfähren
+* Die umgebaute Fähre  (Separatbild)
+* Knaben aus Tscheggelik-ui, auf einem Kahne sitzend
+* Die Pontonfähren auf dem Wege nach Abdall
+* Die Eingeborenen von Abdall. (Separatbild)
+* Satema in Abdall
+* Frauen und Kinder der Loplik (Separatbild)
+* An schilfbedeckten Ufern (bunte Tafel)
+* Tamarisken bei Tattlik-bulak
+* Das Gerüst meiner Jurte
+* Hauptquartier bei Mandarlik
+* Hauptkamm des Tschimen-tag, oberhalb von Mandarlik
+* Lager bei Mandarlik. Blick talabwärts
+* Landschaft oberhalb von Mandarlik
+* vAufbruch ins tibetische Hochgebirge (Separatbild)
+* Zwei gejangene Kulanfüllen
+* Die Kulanfüllen von vorn gesehen
+* Ein Parallelkamm des Arka-tag, von Lager Nr. XIX aus gesehen
+* Auf der höchsten Bergkette der Erde (Separatbild)
+* Einige unserer Pferde im südlichen Quertale, vom Passe aus gesehen (3. Aug. 1900)
+* Rast der Karawane während Tscherdons Rekognoszierung (3. Aug. 1900)
+* Aussicht vom Passe nach Ost zu Nord (3. Aug. 1900)
+* Aussicht vom Passe nach Norden (3. Aug. 1900)
+* Allgemeines Trocknen an der Sonne (Separatbild)
+* Gletschermassiv im Südwesten vom Lager Nr. XXVII
+* Aussicht nach Süden vom Lager Nr. XXVII
+* Bugsierung eines Kamels über den Fluß
+* Fester Boden unter den Füßen
+* Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Nordosten
+* Ein glücklich über den Fluß gebrachtes Kamal
+* Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Südosten
+* Meine Jurte im Lager Nr. XXXV (27. August 1900). Aussicht nach Norden.
+* Der Fischberg
+* Der Fischberg vom See aus
+* Blick vom See aus nach Westen auf den abziehenden Sturm
+* Blick vom See aus nach Osten
+* In Todesgefahr (Separatbild)
+* Lagerplatz im tibetischen Hochland
+* Umbetten des kranken Aldat
+* Tscherdons Yak (Separatbild)
 
 
 :::: align-center
