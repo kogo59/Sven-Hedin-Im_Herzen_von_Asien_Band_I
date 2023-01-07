@@ -216,7 +216,7 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Die Pontonfähren auf dem Wege nach Abdall](ch027.xhtml#b387)
 * [Die Eingeborenen von Abdall](ch027.xhtml#b388) (Separatbild)
 * [Sattma in Abdall](ch027.xhtml#b389)
-* Frauen und Kinder der Loplik (Separatbild)
+* [Frauen und Kinder der Loplik](ch028.xhtml#b392) (Separatbild)
 * An schilfbedeckten Ufern (bunte Tafel)
 * Tamarisken bei Tattlik-bulak
 * Das Gerüst meiner Jurte
