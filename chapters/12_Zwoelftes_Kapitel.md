@@ -474,7 +474,7 @@ eigentlich aber war er ein unschädlicher Spion, der ausfindig machen sollte, wa
 für ein Kunde ich sei. Naser Bek, mein alter Freund und Wirt von Tikkenlik, kam
 spät abends und blieb über Nacht, so daß wir lange gemütlich miteinander
 plaudern konnten. Er teilte mir allerlei Interessantes mit. Zuerst wußte er zu
-erzählen, daß ein Russe von Dung-chan (Sa -tscheo) nach Tscharchlik gekommen sei
+erzählen, daß ein Russe von Dung-chan (Sa-tscheo) nach Tscharchlik gekommen sei
 und in einer Woche ungefähr hier sein werde; ich ahnte, daß dies kein Russe,
 sondern der französische Reisende Bonin sei.
 

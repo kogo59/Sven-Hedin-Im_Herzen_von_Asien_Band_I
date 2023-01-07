@@ -256,7 +256,7 @@ immer einem kreideweißen Bande, doch große Strecken sind Anschwemmungen, die
 jetzt, da alles mit Schnee bedeckt ist, von der Eisdecke fast gar nicht zu
 unterscheiden sind.
 
-Am folgenden Tage stieg die Temperatur um 1 Uhr auf — 2<small>2</small>, und wir
+Am folgenden Tage stieg die Temperatur um 1 Uhr auf — 2,<small>2</small>, und wir
 hatten den ersten Frühlingssturm aus Nordosten, der indessen nur ein schwacher
 Vorläufer der heftigen Stürme war, die den Frühling im Loplande
 charakterisieren. Auf der Wanderung nach Nordosten fanden wir ein
@@ -375,8 +375,8 @@ drei Tagereisen in wasserloser Gegend vor uns und mußten für unseren
 eigenen und den Bedarf der Pferde ein paar Säcke Eis mitnehmen.
 
 Um 1 Uhr zeigte das Thermometer +0,<small>4</small>°; es war das erste Mal seit
-dem heiligen Abend, an dem wir +0,<small>4</small> hatten, daß das Quecksilber über Null stand.
-Doch ging die Temperatur in der Nacht bis — 24 herunter.
+dem heiligen Abend, an dem wir +0,<small>1</small>° hatten, daß das Quecksilber über Null stand.
+Doch ging die Temperatur in der Nacht bis —24° herunter.
 
 Als wir am 15. Februar nach Nordosten wanderten, entfernten wir uns nach und
 nach von dem hohen Sande, der jedoch noch immer in etwa 5 Kilometer Entfernung

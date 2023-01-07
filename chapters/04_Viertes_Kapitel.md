@@ -201,7 +201,7 @@ werden zu können.
 
 Als wir später nach Osten und Südosten umbogen, hatten wir den Wind mit uns, und
 die Fähre ging 21 Meter schneller als die Strömung, die heute
-38,<small>4</small>Meter in der Minute betrug. Bei der nächsten Biegung nach
+38,<small>4</small> Meter in der Minute betrug. Bei der nächsten Biegung nach
 Nordwesten war der Wind so heftig, daß wir halten mußten. Es ist klar, daß die
 Karte ein falsches Bild von dem Flusse geben würde, wenn man nicht stets den
 Einfluß des Windes auf den Gang der Fähre berücksichtigte. Doch dies ließ sich
@@ -220,7 +220,7 @@ Hirschen, Antilopen, Wildschweinen, Wölfen, Füchsen, Luchsen, Hasen und Fasane
 als Aufenthaltsort diene; Tiger gebe es dagegen hier nicht.
 
 Bei diesem Lager betrug die Breite des Flusses nur 42,<small>6</small> Meter und
-die Wassermenge 67<small>16</small> Kubikmeter, was ein bedenkliches Fallen in
+die Wassermenge 67,<small>16</small> Kubikmeter, was ein bedenkliches Fallen in
 einem Tage verriet. An den jetzt herannahenden Herbst denkend, begann ich zu
 fürchten, daß wir noch nicht bis ans Ende des Flusses gelangt sein würden, wenn
 uns der Winter in seine Eisbande schlüge, und es kam sehr darauf an, in Zukunft

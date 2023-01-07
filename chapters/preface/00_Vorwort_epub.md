@@ -207,15 +207,15 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Sandsturm auf dem Beglik-köll](ch026.xhtml#b368) (Separatbild)
 * [Die Fähre sitzt auf dem Tuwadaku-köll im Schilfe fest](ch026.xhtml#b369)
 * [Ausblick von der Vorderkajüte der Fähre](ch026.xhtml#b371)
-* Der Tarim bei Schirge-tschappgan
-* Frauen und Kinder in Tscheggelik-ui
-* Stall in Tscheggelik-ui
-* Der Bau der Pontonfähren
-* Die umgebaute Fähre  (Separatbild)
-* Knaben aus Tscheggelik-ui, auf einem Kahne sitzend
-* Die Pontonfähren auf dem Wege nach Abdall
-* Die Eingeborenen von Abdall. (Separatbild)
-* Satema in Abdall
+* [Der Tarim bei Schirge-tschappgan](ch027.xhtml#b382)
+* [Frauen und Kinder in Tscheggelik-ui](ch027.xhtml#b383)
+* [Stall in Tscheggelik-ui](ch027.xhtml#b384)
+* [Der Bau der Pontonfähren](ch027.xhtml#b385a)
+* [Die umgebaute Fähre](ch027.xhtml#b385)  (Separatbild)
+* [Knaben aus Tscheggelik-ui, auf einem Kahne sitzend](ch027.xhtml#b386)
+* [Die Pontonfähren auf dem Wege nach Abdall](ch027.xhtml#b387)
+* [Die Eingeborenen von Abdall](ch027.xhtml#b388) (Separatbild)
+* [Sattma in Abdall](ch027.xhtml#b389)
 * Frauen und Kinder der Loplik (Separatbild)
 * An schilfbedeckten Ufern (bunte Tafel)
 * Tamarisken bei Tattlik-bulak

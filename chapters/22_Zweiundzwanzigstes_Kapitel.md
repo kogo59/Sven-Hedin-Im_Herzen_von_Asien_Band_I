@@ -205,7 +205,7 @@ natürlichen Kanälen, die sich seit meinem vorigen Besuche oberhalb des
 Kum-tschappgan vom Hauptflusse abgetrennt haben.
 
 Die Sanddüne, die dem Kum-tschappgan seinen Namen gegeben hat, ist
-10/,<small>24</small> Meter hoch. Die größte Tiefe des Sees beträgt
+10,<small>24</small> Meter hoch. Die größte Tiefe des Sees beträgt
 5,<small>15</small> Meter. Man kann diesen Vertikalunterschied von
 15,<small>39</small> Meter als den größten im ganzen unteren Lop-nor-Becken
 betrachten.

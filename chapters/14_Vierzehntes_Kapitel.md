@@ -126,7 +126,7 @@ Tura-sallgan-ui in einem Tage nicht erreichen; eines der Kamele
 mußte sich seiner erbarmen. Es war die einzige meiner Wanderungen, an der er
 teilnahm; seine Tage waren gezählt.
 
-Heute wurden 22<small>5</small>, Kilometer zurückgelegt, größtenteils auf ebenem
+Heute wurden 22,<small>5</small> Kilometer zurückgelegt, größtenteils auf ebenem
 Bajirboden; die Sandengen zwischen den Mulden wurden nach und nach höher und
 breiter. Das einzige nicht recht Gute war, daß die Depression sich fortlaufend
 nach Südwesten erstreckte; hielt diese Richtung an, so würden wir in das
@@ -173,7 +173,7 @@ der Bajir Nr. 8 gemacht: einige poröse spröde Skeletteile von einem wilden
 Kamele.
 
 Im Lager Nr. III wurde versuchsweise ein Brunnen gegraben, der schon auf 1,<small>2</small>
-Meter Tiefe reichlich Wasser von 4<small>8</small>°, gab; es war aber bitteres,
+Meter Tiefe reichlich Wasser von 4,<small>8</small>°, gab; es war aber bitteres,
 konzentriertes Salz. Der Boden ist nirgends gefroren, obwohl die Feuchtigkeit
 bis an die Oberfläche reicht; er ist aber auch überall stark mit Salz vermischt.
 

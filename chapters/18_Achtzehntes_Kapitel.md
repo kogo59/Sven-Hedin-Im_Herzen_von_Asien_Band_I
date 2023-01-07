@@ -20,7 +20,7 @@ Unser Weg führte jetzt nach Nordwesten. Bei *Arelisch* teilt sich der
 Kun-tschekkisch-tarim in zwei Arme, von denen der östliche nach dem
 obenerwähnten See geht; der westliche ist der Kok-ala, an dem wir zum Teil
 hingezogen sind. Die Tage werden immer frühlingshafter, obgleich die nächtliche
-Kälte noch auf —18,<small>8</small> herunterging. Am 21. Februar erreichten wir
+Kälte noch auf —18,<small>8</small>° herunterging. Am 21. Februar erreichten wir
 *Dural*, wo der Amban von Lop residiert, und am Tage darauf *Tikkenlik*, wo
 Kirgui Pavan zu mir stieß. Er war es, der mir 1896 den Weg nach den großen Seen
 im Osten gezeigt und mir dadurch Gelegenheit gegeben hatte, eine so

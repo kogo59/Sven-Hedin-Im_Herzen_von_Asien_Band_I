@@ -104,7 +104,7 @@ vorzügliche Weide geben soll, aufhalten.
 
 Ein frischer Talwind wehte die ganze Nacht über unseren schönen, angenehmen
 Lagerplatz. Zum erstenmal im Jahre blieb die Minimaltemperatur über 0°, nämlich
-auf +1,<small>8</small>. Unsere Tiere waren während der Nacht hoch oben im Tale
+auf +1,<small>8</small>°. Unsere Tiere waren während der Nacht hoch oben im Tale
 umhergestreift, wo Gras und Weidenbäume wachsen, und es kostete Zeit, sie wieder
 herunterzutreiben.
 

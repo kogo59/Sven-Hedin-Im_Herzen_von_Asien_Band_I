@@ -2,14 +2,14 @@
 
 ::: justified
 
-**I**n der Nacht auf den 1. Oktober fiel das Wasser noch um 1, Zentimeter. Im
-Norden zeigten sich schwache Umrisse, die man für aufsteigenden Nebel hätte
-halten können, wenn ihr gezähnter Rand nicht die Bergkette des Tien-schan
-angekündigt hätte. Der Masar-tag stand immer deutlicher vor uns; seine Lichter
-und Schatten und sein ganzer Bau zeichneten sich mit jeder Stunde schärfer ab.
-Ich saß bequem an meinem Schreibtische und trug den Gebirgsstock auf der Karte
-ein, wobei die kulminierenden, leicht erkennbaren spitzen mit römischen Ziffern
-bezeichnet wurden.
+**I**n der Nacht auf den 1. Oktober fiel das Wasser noch um 1,<small>7</small>
+Zentimeter. Im Norden zeigten sich schwache Umrisse, die man für aufsteigenden
+Nebel hätte halten können, wenn ihr gezähnter Rand nicht die Bergkette des
+Tien-schan angekündigt hätte. Der Masar-tag stand immer deutlicher vor uns;
+seine Lichter und Schatten und sein ganzer Bau zeichneten sich mit jeder Stunde
+schärfer ab. Ich saß bequem an meinem Schreibtische und trug den Gebirgsstock
+auf der Karte ein, wobei die kulminierenden, leicht erkennbaren Spitzen mit
+römischen Ziffern bezeichnet wurden.
 
 Jetzt sind wir dicht bei dem nächsten Ausläufer des Berges, der auf dem Ufer
 selbst steht, so das sein Fuß vom Wasser bespült wird. Dieser ungewöhnliche
@@ -283,7 +283,7 @@ glaubten wir, in eine Sackgasse geraten zu sein, doch stets öffnete sich eine
 Fortsetzung der Wasserstraße.
 
 Die Tiefen waren hier bedeutender als im See; die größte betrug
-3,small>65</small> Meter. Die Breite nahm allmählich zu, betrug nirgends weniger
+3,<small>65</small> Meter. Die Breite nahm allmählich zu, betrug nirgends weniger
 als 10 Meter, stieg aber manchmal auf 50 Meter. Der Kanal sah wie von
 Menschenhand gegraben oder wie der Rest eines alten Flußbettes aus, doch war es
 augenscheinlich nur die von dem verschiedenen Wasserstande des Jarkent-darja
@@ -377,7 +377,7 @@ Mit denselben Gefühlen, die einen Menschen beschleichen, der das Grab eines
 Freundes besucht, gegen den er im Leben, absichtlich oder unabsichtlich, unrecht
 gehandelt hat, und der dann seine Reue durch seine Wallfahrt zum Grabe und durch
 Streuen von Rosen zum Schweigen zu bringen und dem Toten gegenüber Buße zu tun
-sucht, riß ich den Blick H von dem Schauplatze jener düsteren Erinnerungen los
+sucht, riß ich den Blick von dem Schauplatze jener düsteren Erinnerungen los
 und wanderte, von meinen beiden Gefährten begleitet, schweren Schrittes bergauf.
 Der Schuttkegel war jetzt kupiert und spärlich mit Steppentamarisken bewachsen,
 deren lange, steife Nadeln an die Kiefern des Nordens erinnern. Leicht wie ein
