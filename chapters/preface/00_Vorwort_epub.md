@@ -217,10 +217,10 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Die Eingeborenen von Abdall](ch027.xhtml#b388) (Separatbild)
 * [Sattma in Abdall](ch027.xhtml#b389)
 * [Frauen und Kinder der Loplik](ch028.xhtml#b392) (Separatbild)
-* An schilfbedeckten Ufern (bunte Tafel)
-* Tamarisken bei Tattlik-bulak
-* Das Gerüst meiner Jurte
-* Hauptquartier bei Mandarlik
+* [An schilfbedeckten Ufern](ch029.xhtml#b400) (bunte Tafel)
+* [Tamarisken bei Tattlik-bulak](ch029.xhtml#b407)
+* [Das Gerüst meiner Jurte](ch029.xhtml#b409)
+* [Hauptquartier bei Mandarlik](ch029.xhtml#b415)
 * Hauptkamm des Tschimen-tag, oberhalb von Mandarlik
 * Lager bei Mandarlik. Blick talabwärts
 * Landschaft oberhalb von Mandarlik
