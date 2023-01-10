@@ -221,12 +221,12 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Tamarisken bei Tattlik-bulak](ch029.xhtml#b407)
 * [Das Gerüst meiner Jurte](ch029.xhtml#b409)
 * [Hauptquartier bei Mandarlik](ch029.xhtml#b415)
-* Hauptkamm des Tschimen-tag, oberhalb von Mandarlik
-* Lager bei Mandarlik. Blick talabwärts
-* Landschaft oberhalb von Mandarlik
-* vAufbruch ins tibetische Hochgebirge (Separatbild)
-* Zwei gejangene Kulanfüllen
-* Die Kulanfüllen von vorn gesehen
+* [Hauptkamm des Tschimen-tag, oberhalb von Mandarlik](ch030.xhtml#b419)
+* [Lager bei Mandarlik. Blick talabwärts](ch030.xhtml#b420)
+* [Landschaft oberhalb von Mandarlik](ch030.xhtml#b421)
+* [Aufbruch ins tibetische Hochgebirge](ch030.xhtml#b422) (Separatbild)
+* [Zwei gefangene Kulanfüllen](ch030.xhtml#b431a)
+* [Die Kulanfüllen von vorn gesehen](ch030.xhtml#b431b)
 * Ein Parallelkamm des Arka-tag, von Lager Nr. XIX aus gesehen
 * Auf der höchsten Bergkette der Erde (Separatbild)
 * Einige unserer Pferde im südlichen Quertale, vom Passe aus gesehen (3. Aug. 1900)
