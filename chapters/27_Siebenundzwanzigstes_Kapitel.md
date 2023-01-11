@@ -189,7 +189,7 @@ zurückzuziehen.
 
 Der Tag war klar und herrlich, und der Schnee schmolz weg. Wir schritten nach
 dem Hauptpasse des *Tschimen-tag* (4269 Meter) hinauf, von wo aus man nach Süden
-ein stattliches Panorama vor sich hat. Eine neue Bergkette, der Ara-tag^[^2700]^, zieht
+ein stattliches Panorama vor sich hat. Eine neue Bergkette, der Ara-tag, zieht
 sich von Westen nach Osten hin; er ist jetzt ganz mit Schnee bedeckt, obwohl nur
 einige Gipfel im Südwesten wirkliche Firnfelder tragen. Das breite Längental
 zwischen Tschimen-tag und Ara-tag heißt einfach *Kajir* (Lehmschlammtal) und
@@ -565,5 +565,4 @@ herrlichstem Wetter angetreten werden, endeten aber immer mit Sturm.
 
 ### **Anmerkungen** {.break-before .unnumbered}
 
-[^2700]: [*Ara-tag*: vergleiche [Arkatag](https://de.wikipedia.org/wiki/Prschewalski-Gebirge)]{.footnote}
 

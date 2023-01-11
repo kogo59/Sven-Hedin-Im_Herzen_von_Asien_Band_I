@@ -227,13 +227,13 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Aufbruch ins tibetische Hochgebirge](ch030.xhtml#b422) (Separatbild)
 * [Zwei gefangene Kulanfüllen](ch030.xhtml#b431a)
 * [Die Kulanfüllen von vorn gesehen](ch030.xhtml#b431b)
-* Ein Parallelkamm des Arka-tag, von Lager Nr. XIX aus gesehen
-* Auf der höchsten Bergkette der Erde (Separatbild)
-* Einige unserer Pferde im südlichen Quertale, vom Passe aus gesehen (3. Aug. 1900)
-* Rast der Karawane während Tscherdons Rekognoszierung (3. Aug. 1900)
-* Aussicht vom Passe nach Ost zu Nord (3. Aug. 1900)
-* Aussicht vom Passe nach Norden (3. Aug. 1900)
-* Allgemeines Trocknen an der Sonne (Separatbild)
+* [Ein Parallelkamm des Arka-tag, von Lager Nr. XIX aus gesehen](ch031.xhtml#b439)
+* [Auf der höchsten Bergkette der Erde](ch031.xhtml#b440) (Separatbild)
+* [Einige unserer Pferde im südlichen Quertale, vom Passe aus gesehen (3. Aug. 1900)](ch031.xhtml#b441)
+* [Rast der Karawane während Tscherdons Rekognoszierung (3. Aug. 1900)](ch031.xhtml#b443)
+* [Aussicht vom Passe nach Ost zu Nord (3. Aug. 1900)](ch031.xhtml#b445)
+* [Aussicht vom Passe nach Norden (3. Aug. 1900)](ch031.xhtml#b447)
+* [Allgemeines Trocknen an der Sonne](ch031.xhtml#b456) (Separatbild)
 * Gletschermassiv im Südwesten vom Lager Nr. XXVII
 * Aussicht nach Süden vom Lager Nr. XXVII
 * Bugsierung eines Kamels über den Fluß
