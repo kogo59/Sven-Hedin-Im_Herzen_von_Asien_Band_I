@@ -234,14 +234,14 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Aussicht vom Passe nach Ost zu Nord (3. Aug. 1900)](ch031.xhtml#b445)
 * [Aussicht vom Passe nach Norden (3. Aug. 1900)](ch031.xhtml#b447)
 * [Allgemeines Trocknen an der Sonne](ch031.xhtml#b456) (Separatbild)
-* Gletschermassiv im Südwesten vom Lager Nr. XXVII
-* Aussicht nach Süden vom Lager Nr. XXVII
-* Bugsierung eines Kamels über den Fluß
-* Fester Boden unter den Füßen
-* Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Nordosten
-* Ein glücklich über den Fluß gebrachtes Kamal
-* Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Südosten
-* Meine Jurte im Lager Nr. XXXV (27. August 1900). Aussicht nach Norden.
+* [Gletschermassiv im Südwesten vom Lager Nr. XXVII](ch032.xhtml#b462)
+* [Aussicht nach Süden vom Lager Nr. XXVII](ch032.xhtml#b463)
+* [Bugsierung eines Kamels über den Fluß](ch032.xhtml#b473)
+* [Fester Boden unter den Füßen](ch032.xhtml#b474)
+* [Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Nordosten](ch032.xhtml#b475)
+* [Ein glücklich über den Fluß gebrachtes Kamel](ch032.xhtml#b476)
+* [Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Südosten](ch032.xhtml#b477)
+* [Meine Jurte im Lager Nr. XXXV (27. August 1900). Aussicht nach Norden](ch032.xhtml#b480)
 * Der Fischberg
 * Der Fischberg vom See aus
 * Blick vom See aus nach Westen auf den abziehenden Sturm
