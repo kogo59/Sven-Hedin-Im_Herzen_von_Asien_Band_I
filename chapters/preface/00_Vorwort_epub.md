@@ -242,14 +242,38 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Ein glücklich über den Fluß gebrachtes Kamel](ch032.xhtml#b476)
 * [Salzsee bei Lager Nr. XXXV (27. August 1900). Aussicht nach Südosten](ch032.xhtml#b477)
 * [Meine Jurte im Lager Nr. XXXV (27. August 1900). Aussicht nach Norden](ch032.xhtml#b480)
-* Der Fischberg
-* Der Fischberg vom See aus
-* Blick vom See aus nach Westen auf den abziehenden Sturm
-* Blick vom See aus nach Osten
-* In Todesgefahr (Separatbild)
-* Lagerplatz im tibetischen Hochland
-* Umbetten des kranken Aldat
-* Tscherdons Yak (Separatbild)
+* [Der Fischberg](ch033.xhtml#b484)
+* [Der Fischberg vom See aus](ch033.xhtml#b485)
+* [Blick vom See aus nach Westen auf den abziehenden Sturm](ch033.xhtml#b486)
+* [Blick vom See aus nach Osten](ch033.xhtml#b487)
+* [In Todesgefahr](ch033.xhtml#b489) (Separatbild)
+* [Lagerplatz im tibetischen Hochland](ch033.xhtml#b497)
+* [Umbetten des kranken Aldat](ch033.xhtml#b499)
+* [Tscherdons Yak](ch033.xhtml#b502) (Separatbild)
+* [Ein im Schlamm versinkendes Kamel](ch033.xhtml#b503)
+* Turdu Bai auf einem Berge in der Nähe des Lagers Nr. LXIV
+* Ein erbeuteter Yak
+* Kopf und Seitenfransen des Yak
+* Blick nach Süden von Aldats Begräbnisplatz
+* Lager Nr. LX in 5111 Meter Seehöe
+* Ein junger Kulan
+* Führung der sechs Kamele durch Turdu Bai
+* Unser Lager in Togri-sai am 8. Oktober
+* Obo beim Lager Nr. LXXI im untern Togri-sai
+* Ein toter Kulan
+* Das Illwe-tschimen-Gebirge aus dem Tschimental
+* Das Hauptquartier bei Temirlik
+* Aus dem Hauptaquartier in Temirlik
+* Tscherdon und Schagdur mit ihrer Beute (Separatbild)
+* Nordabhang der Kalta-alagan-Kette
+* Der Kalta-alagan von Süden (Lager am 15. und 16. November) 
+* Der Kalta-alagan von Süden (Lager am 15. und 16. November)
+* Der Verfasser im Faltboot auf dem Ajag-kum-köll (Separatbild)
+* Islam Bai und Kutschuk stoßen vom Lande ab
+* Die Packpferde am Ufer des Ajag-kum-köll (Separatbild)
+* Das nach dem Passe Gopur-alik hinaufführende Tal
+* Turdu Bai und Kutschuk mit dem zusammengelegten Faltboot. (Separatbild)
+
 
 
 :::: align-center
