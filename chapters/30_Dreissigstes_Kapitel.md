@@ -634,7 +634,7 @@ spitzen Steine, und zwei von den Kamelen verletzten sich die Fußsohlen derartig
 daß sie bluteten.
 
 :::: {.wrap-80 }
-![Ein im Schlamm versinkendes Kamel](Im_Herzen_von_Asien_I_503.jpg "Ein im Schlamm versinkendes Kamel."){#b503}
+![Ein im Schlamm versinkendes Kamel.](Im_Herzen_von_Asien_I_503.jpg "Ein im Schlamm versinkendes Kamel."){#b503}
 ::::
 
 Dann folgte eine Strecke losen Bodens, der am Vormittag an der Oberfläche noch

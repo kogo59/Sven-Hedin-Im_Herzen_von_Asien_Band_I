@@ -251,14 +251,14 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Umbetten des kranken Aldat](ch033.xhtml#b499)
 * [Tscherdons Yak](ch033.xhtml#b502) (Separatbild)
 * [Ein im Schlamm versinkendes Kamel](ch033.xhtml#b503)
-* Turdu Bai auf einem Berge in der Nähe des Lagers Nr. LXIV
-* Ein erbeuteter Yak
-* Kopf und Seitenfransen des Yak
-* Blick nach Süden von Aldats Begräbnisplatz
-* Lager Nr. LX in 5111 Meter Seehöe
-* Ein junger Kulan
-* Führung der sechs Kamele durch Turdu Bai
-* Unser Lager in Togri-sai am 8. Oktober
+* [Turdu Bai auf einem Berge in der Nähe des Lagers Nr. LIV](ch034.xhtml#b506)
+* [Ein erbeuteter Yak](ch034.xhtml#b508)
+* [Kopf und Seitenfransen des Yak](ch034.xhtml#b509)
+* [Blick nach Süden von Aldats Begräbnisplatz](ch034.xhtml#b510)
+* [Lager Nr. LX in 5111 Meter Seehöhe](ch034.xhtml#b514)
+* [Ein junger Kulan](ch034.xhtml#b516)
+* [Führung der sechs Kamele durch Turdu Bai](ch034.xhtml#b517)
+* [Unser Lager in Togri-sai am 8. Oktober](ch034.xhtml#b521)
 * Obo beim Lager Nr. LXXI im untern Togri-sai
 * Ein toter Kulan
 * Das Illwe-tschimen-Gebirge aus dem Tschimental
