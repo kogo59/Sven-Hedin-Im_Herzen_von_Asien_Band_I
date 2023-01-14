@@ -259,10 +259,10 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Ein junger Kulan](ch034.xhtml#b516)
 * [Führung der sechs Kamele durch Turdu Bai](ch034.xhtml#b517)
 * [Unser Lager in Togri-sai am 8. Oktober](ch034.xhtml#b521)
-* Obo beim Lager Nr. LXXI im untern Togri-sai
-* Ein toter Kulan
-* Das Illwe-tschimen-Gebirge aus dem Tschimental
-* Das Hauptquartier bei Temirlik
+* [Obo beim Lager Nr. LXXI im untern Togri-sai](ch035.xhtml#b525)
+* [Ein toter Kulan](ch035.xhtml#b526)
+* [Das Illwe-tschimen-Gebirge aus dem Tschimental](ch035.xhtml#b527)
+* [Das Hauptquartier bei Temirlik](ch035.xhtml#b533)
 * Aus dem Hauptaquartier in Temirlik
 * Tscherdon und Schagdur mit ihrer Beute (Separatbild)
 * Nordabhang der Kalta-alagan-Kette
