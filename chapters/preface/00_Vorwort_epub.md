@@ -285,7 +285,7 @@ guten Namen vor vielen Schnitzern bewahrt!
 
 * [Höhenprofil der Reiseroute](ch036.xhtml#b559)
 * [Tarim und Wüste Takla-makan. Maßstab 1:2&nbsp;000&nbsp;000.](ch036.xhtml#b560)
-* Osttibet. Maßstab 1:2&nbsp;000&nbsp;000. Nebenkarte: Faksimile eines Originalblattes meiner Karte des Tarimflusses. Maßstab 1:35&nbsp;000.](ch036.xhtml#b561)
+* [Osttibet. Maßstab 1:2&nbsp;000&nbsp;000. Nebenkarte: Faksimile eines Originalblattes meiner Karte des Tarimflusses. Maßstab 1:35&nbsp;000.](ch036.xhtml#b561)
 
 :::: align-center
 ****
