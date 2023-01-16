@@ -263,16 +263,16 @@ guten Namen vor vielen Schnitzern bewahrt!
 * [Ein toter Kulan](ch035.xhtml#b526)
 * [Das Illwe-tschimen-Gebirge aus dem Tschimental](ch035.xhtml#b527)
 * [Das Hauptquartier bei Temirlik](ch035.xhtml#b533)
-* Aus dem Hauptaquartier in Temirlik
-* Tscherdon und Schagdur mit ihrer Beute (Separatbild)
-* Nordabhang der Kalta-alagan-Kette
-* Der Kalta-alagan von Süden (Lager am 15. und 16. November) 
-* Der Kalta-alagan von Süden (Lager am 15. und 16. November)
-* Der Verfasser im Faltboot auf dem Ajag-kum-köll (Separatbild)
-* Islam Bai und Kutschuk stoßen vom Lande ab
-* Die Packpferde am Ufer des Ajag-kum-köll (Separatbild)
-* Das nach dem Passe Gopur-alik hinaufführende Tal
-* Turdu Bai und Kutschuk mit dem zusammengelegten Faltboot. (Separatbild)
+* [Aus dem Hauptquartier in Temirlik](ch036.xhtml#b538)
+* [Tscherdon und Schagdur mit ihrer Beute](ch036.xhtml#b541) (Separatbild)
+* [Nordabhang der Kalta-alagan-Kette](ch036.xhtml#b541a)
+* [Der Kalta-alagan von Süden (Lager am 15. und 16. November)](ch036.xhtml#b542) 
+* [Der Kalta-alagan von Süden (Lager am 15. und 16. November)](ch036.xhtml#b543) 
+* [Der Verfasser im Faltboot auf dem Ajag-kum-köll](ch036.xhtml#b546)  (Separatbild)
+* [Islam Bai und Kutschuk stoßen vom Lande ab](ch036.xhtml#b549)
+* [Die Packpferde am Ufer des Ajag-kum-köll](ch036.xhtml#b550) (Separatbild)
+* [Das nach dem Passe Gopur-alik hinaufführende Tal](ch036.xhtml#b553)
+* [Turdu Bai und Kutschuk mit dem zusammengelegten Faltboot](ch036.xhtml#b556) (Separatbild)
 
 
 
@@ -283,9 +283,9 @@ guten Namen vor vielen Schnitzern bewahrt!
 
 ## Karten. 
 
-* Höhenprofil der Reiseroute
-* Tarim und Wüste Takla-makan. Maßstab 1:2&nbsp;000&nbsp;000.
-* Osttibet. Maßstab 1:2&nbsp;000&nbsp;000. Nebenkarte: Faksimile eines Originalblattes meiner Karte des Tarimflusses. Maßstab 1:35&nbsp;000.
+* [Höhenprofil der Reiseroute](ch036.xhtml#b559)
+* [Tarim und Wüste Takla-makan. Maßstab 1:2&nbsp;000&nbsp;000.](ch036.xhtml#b560)
+* Osttibet. Maßstab 1:2&nbsp;000&nbsp;000. Nebenkarte: Faksimile eines Originalblattes meiner Karte des Tarimflusses. Maßstab 1:35&nbsp;000.](ch036.xhtml#b561)
 
 :::: align-center
 ****
