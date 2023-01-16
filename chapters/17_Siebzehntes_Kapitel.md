@@ -256,7 +256,7 @@ immer einem kreideweißen Bande, doch große Strecken sind Anschwemmungen, die
 jetzt, da alles mit Schnee bedeckt ist, von der Eisdecke fast gar nicht zu
 unterscheiden sind.
 
-Am folgenden Tage stieg die Temperatur um 1 Uhr auf — 2,<small>2</small>, und wir
+Am folgenden Tage stieg die Temperatur um 1 Uhr auf — 2,<small>2</small>°, und wir
 hatten den ersten Frühlingssturm aus Nordosten, der indessen nur ein schwacher
 Vorläufer der heftigen Stürme war, die den Frühling im Loplande
 charakterisieren. Auf der Wanderung nach Nordosten fanden wir ein

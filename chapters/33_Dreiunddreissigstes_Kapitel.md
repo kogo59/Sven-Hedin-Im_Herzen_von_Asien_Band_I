@@ -563,7 +563,7 @@ der vernichtenden Macht der Kälte erstarrt ist.
 Wir wandern in dem Tale nach Osten und gelangen an den am Nordfuße des Akato-tag
 gelegenen Salzsee *Usun-schor*. Hier entspringen mehrere Süßwasserquellen, und
 nur da, wo sich ihre Rinnsale in den See ergießen, liegt Eis. Sonst ist das mit
-Salz gesättigte Wasser offen, obwohl es eine Temperatur von —7.<small>9</small>°
+Salz gesättigte Wasser offen, obwohl es eine Temperatur von —7,<small>9</small>°
 hat.
 
 Es war schön, am Abend des 5. Dezember wieder daheim zu sein und im Lager alles

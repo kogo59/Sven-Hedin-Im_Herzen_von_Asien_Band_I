@@ -281,7 +281,7 @@ Ungemach ertragen, so wird man dafür doch täglich durch Entdeckungen und
 Erfahrungen überreich belohnt. Es ist ein großer Reiz, zu wissen, daß man
 überall der erste ist, der über diese Berge wandert, wo es weder Wege gibt noch
 je gegeben hat und wo man vergeblich nach anderen Spuren als denen sucht, welche
-die gespaltenen Hufe der Hake und Antilopen und die runden der Kulane in den
+die gespaltenen Hufe der Yake und Antilopen und die runden der Kulane in den
 Boden eingedrückt haben. Das Gebiet ist herrenlos; Flüsse, Seen und
 
 Gebirge haben keine Namen, ihre Ufer und Schneefelder sind nie von den Blicken

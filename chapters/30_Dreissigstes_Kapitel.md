@@ -30,7 +30,7 @@ schwarzen Yaken, die nicht die geringste Miene zur Flucht machten. Man konnte
 sich versucht fühlen zu glauben, daß sich Nomaden in der Gegend aufhielten und
 zahme Yake bei sich hätten. Doch als unsere Pferde auf die Weide geschickt
 wurden und allmählich nach den besseren Weideplätzen hinaufgingen, blähten die
-Hake ihre Nüstern auf, spähten aufmerksam nach unserer Richtung hin und bewegten
+Yake ihre Nüstern auf, spähten aufmerksam nach unserer Richtung hin und bewegten
 sich dann in langsamem Trab über den Kamm nach dem Salzsee.
 
 Meine Jurte war so eng, daß Tscherdon erst mein Bett zurechtmachen und dann die
@@ -666,7 +666,7 @@ rechten Seite gehabt hatten und das entschieden der riesige Gebirgsstock war,
 dessen Nordseite ich 1896 umwandert und den ich *König-Oskar-Gebirge*^[^3000]^ genannt
 hatte.
 
-Im Talboden stehen tafelförmige, mit 15—20 Meter dicken Tuff betten bedeckte
+Im Talboden stehen tafelförmige, mit 15—20 Meter dicken Tuffbetten bedeckte
 Terrassen, und der Boden ist dicht mit Tuffblöcken besät.
 
 Am folgenden Tag hatte die Sonne ihre Herrschaft wiedererlangt, und die Stürme
