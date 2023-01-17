@@ -25,7 +25,7 @@ Von<br />
 ::::
 
 :::: { .fs-xl .align-center }
-Sven Hedin.<br />
+Sven v. Hedin.<br />
 ::::
 
 ::: align-center
