@@ -238,7 +238,7 @@ improvisierten Tische vor meinem Sitze, und als wir einmal in Fahrt gekommen
 waren, hatte ich reichlich Zeit, die Pfeife zu stopfen, wenn es nötig war.
 Islam, der vorn seinen Platz hatte, besorgte das Loten und den
 Geschwindigkeitsmesser, den ich jedoch jedesmal selbst ablesen mußte. Die Tiefen
-waren so unbedeutend, daß das zweite, 2,small>1</small> Meter lange, mit
+waren so unbedeutend, daß das zweite, 2,<small>1</small> Meter lange, mit
 Einteilung versehene Ruder überall ausreichte. Um von den Ansprüchen des Magens
 unabhängig zu sein, hatten wir eine gebratene Gans, Brot und Eier mitgenommen.
 
@@ -451,5 +451,5 @@ wohl noch mehrere kommen!
 ****
 ::::
 
-### **Anmerkungen** {.break-before .unnumbered}
+### **Anmerkungen** {.break-before .unnumbered }
 
