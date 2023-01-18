@@ -421,7 +421,7 @@ Nach dem zweiten und dritten Kamel wurde das Tau so schlaff, daß es ins Wasser
 hing; es mußte mit den übrigen Laststricken verstärkt werden, so daß es doppelt
 wurde und straffer war. Mitten in dieser Arbeit riß das erste Seil, und wir
 konnten wieder von vorn anfangen. Meine Hände waren schon ganz abgeschürft.
-Tscherdon mußte die üÜberführung der drei übrigen Kamele besorgen; endlich
+Tscherdon mußte die Überführung der drei übrigen Kamele besorgen; endlich
 hatten wir alle Tiere unversehrt drüben. Das letzte Schaf, das sich daran
 gewöhnt hatte, bei den Kamelen zu kampieren, schwamm von selbst hinüber.
 

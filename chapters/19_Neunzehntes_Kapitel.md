@@ -370,7 +370,7 @@ beim Scheine der Laterne in meinem Tagebuche schrieb, trocknete die Tinte sofort
 von dem darauf fallenden Sand, und die Feder kratzte und quietschte in den
 kleinen Dünen, die sich auf dem Blatte bildeten. Die ausgepackten Sachen waren
 nach einer halben Stunde total verschwunden. Es war nicht besonders angenehm,
-sich in diesem Gestöber von Sand, von dem auch das Bett voll war, ent kleiden zu
+sich in diesem Gestöber von Sand, von dem auch das Bett voll war, entkleiden zu
 müssen, und es war in der schwülen, staubschweren Luft zum Ersticken.
 
 Woher kamen wohl diese Milliarden von Kubikmetern Luft, und wo zogen sie hin?

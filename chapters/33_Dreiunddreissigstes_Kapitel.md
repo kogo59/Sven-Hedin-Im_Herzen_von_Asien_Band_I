@@ -438,7 +438,7 @@ zusammengetroffen waren.
 Von hier aus wurde Kutschuk mit dem sich jetzt etwas besser befindenden Togdasin
 und dem Boote nach Hause geschickt, während wir anderen nach Norden weiter
 zogen, um über den Akato-tag zu gehen. Die Nacht auf den 28. November war mit
-ihren — 24,<small>6</small> die kälteste, die wir bisher in diesem Winter gehabt
+ihren — 24,<small>6</small>° die kälteste, die wir bisher in diesem Winter gehabt
 hatten.
 
 Ein düsteres, steiles Granittal führt nach dem 4926 Meter hohen Passe
