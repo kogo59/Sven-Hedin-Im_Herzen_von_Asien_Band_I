@@ -340,10 +340,5 @@ verhallendes Echo davon drang bis ins innerste Asien.
 
 ::::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [*Boxeraufstand*: vergleiche [Boxeraufstand](https://de.wikipedia.org/wiki/Boxeraufstand)]{.footnote}

@@ -447,9 +447,3 @@ wohl noch mehrere kommen!
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered }
-

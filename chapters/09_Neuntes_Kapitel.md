@@ -435,10 +435,4 @@ ich mit den Tagesaufzeichnungen fertig bin und ihrem Beispiele folgen kann.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0900]: [*Chan-tengri*: vergleiche [Khan Tengri](https://de.wikipedia.org/wiki/Khan_Tengri)]{.footnote}

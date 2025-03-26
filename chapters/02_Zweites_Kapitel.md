@@ -294,11 +294,6 @@ und dazu eine Reisemethode, die ich bisher noch nicht erprobt hatte.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Osch*: vergleiche [Osch](https://de.wikipedia.org/wiki/Osch)]{.footnote}
 

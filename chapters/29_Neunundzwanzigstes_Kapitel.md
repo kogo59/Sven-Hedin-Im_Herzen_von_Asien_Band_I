@@ -545,11 +545,3 @@ neuen See gefaßt.
 
 ::::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-
-
-

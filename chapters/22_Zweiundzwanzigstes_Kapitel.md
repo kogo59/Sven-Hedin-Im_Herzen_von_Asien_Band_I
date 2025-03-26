@@ -658,8 +658,3 @@ Die Fähre lag im Hafen vertäut und sollte jetzt wieder zu Ehren gelangen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

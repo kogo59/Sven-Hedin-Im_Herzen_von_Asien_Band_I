@@ -577,8 +577,4 @@ ganze Nacht hindurch Wachen ausgestellt.
 
 :::
 
-:::: align-center
-****
-::::
 
-### **Anmerkungen** {.break-before .unnumbered}

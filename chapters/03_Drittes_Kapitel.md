@@ -406,11 +406,6 @@ Grade, daß der Fluß doppelt so lang hätte sein können.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Jarkent-darja*: vergleiche [Yarkant](https://de.wikipedia.org/wiki/Yarkant_(Fluss))]{.footnote}
 

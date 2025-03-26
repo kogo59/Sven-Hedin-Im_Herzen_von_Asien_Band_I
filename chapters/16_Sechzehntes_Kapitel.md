@@ -268,10 +268,5 @@ Tarimbeckens nach dem Lop-nor hat.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1600]: [*Dr. Stein*: vergleiche [Aurel Stein](https://de.wikipedia.org/wiki/Aurel_Stein)]{.footnote}

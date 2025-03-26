@@ -463,10 +463,5 @@ nicht.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Masar-tag*: vergleiche [Mazartag](https://en.wikipedia.org/wiki/Mazartag)]{.footnote}

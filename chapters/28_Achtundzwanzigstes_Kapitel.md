@@ -616,11 +616,6 @@ mit trockenem Stamme, die „Jer-baghri“ genannt wird, lieferte.
 
 ::::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2800]: [*Arka-tag*: vergleiche [Arkatag](https://de.wikipedia.org/wiki/Prschewalski-Gebirge)]{.footnote}
 

@@ -415,11 +415,6 @@ bedenklich auszusehen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [*Aksu*: vergleiche [Aksu](https://de.wikipedia.org/wiki/Aksu_(Stadt))]{.footnote}
 

@@ -679,10 +679,5 @@ glänzen, während die hügeligen schwarzen Seiten einem Panzerturme gleichen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^3000]: [*König-Oskar-Gebirge*: vergleiche [Kangzhagri](https://www.summitpost.org/kangzhagri/153302)]{.footnote}

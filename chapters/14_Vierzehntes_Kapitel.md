@@ -453,10 +453,5 @@ Spiegelbild der Wüste am Himmelsgewölbe widerscheinen zu sehen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 

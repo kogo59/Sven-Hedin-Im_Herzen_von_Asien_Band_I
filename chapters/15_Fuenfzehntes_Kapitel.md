@@ -579,8 +579,3 @@ die geringste Ahnung davon, daß wir aus der Tiefe der Wüste auftauchen würden
 und Musa hätte dann seinen Weg nach Osten fortgesetzt.
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

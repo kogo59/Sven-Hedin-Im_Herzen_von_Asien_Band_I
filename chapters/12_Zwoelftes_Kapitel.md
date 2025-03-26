@@ -519,10 +519,5 @@ Worte; sie sollten nicht ohne Einfluß auf meine künftigen Pläne bleiben.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Schweinfurth*: vergleiche [Georg Schweinfurth](https://de.wikipedia.org/wiki/Georg_Schweinfurth)]{.footnote}

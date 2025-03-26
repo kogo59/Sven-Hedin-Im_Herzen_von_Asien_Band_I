@@ -558,8 +558,3 @@ erreichten, brauchten wir keine Not zu leiden.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

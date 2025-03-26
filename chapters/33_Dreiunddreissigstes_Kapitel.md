@@ -658,17 +658,16 @@ Druck von F. A. Brockhaus in Leipzig.
 <br /><br /><br /><br />
 ::::
 
-:::: {.wrap-100 }
+:::: {.wrap-90 }
 ![Höhenprofil der Reiseroute.](Im_Herzen_von_Asien_I_559.jpg "Höhenprofil der Reiseroute."){#b559}
 ::::
 
-:::: {.wrap-100 }
+:::: {.wrap-90 }
 ![Tarim und Wüste Takla-makan. Maßstab 1:2&nbsp;000&nbsp;000.](Im_Herzen_von_Asien_I_560.jpg "Tarim und Wüste Takla-makan. Maßstab 1:2&nbsp;000&nbsp;000."){#b560}
 ::::
 
-:::: {.wrap-100 }
+:::: {.wrap-80 }
 ![Osttibet. Maßstab 1:2&nbsp;000&nbsp;000. Nebenkarte: Faksimile eines Originalblattes meiner Karte des Tarimflusses. Maßstab 1:35&nbsp;000.](Im_Herzen_von_Asien_I_561.jpg "TOsttibet. Maßstab 1:2&nbsp;000&nbsp;000. Nebenkarte: Faksimile eines Originalblattes meiner Karte des Tarimflusses. Maßstab 1:35&nbsp;000."){#b561}
 ::::
 
 
-### **Anmerkungen** {.break-before .unnumbered}

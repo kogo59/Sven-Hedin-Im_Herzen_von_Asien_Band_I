@@ -568,9 +568,4 @@ des Tarim, das immermehr mit Kränzen von weißen Immortellen überhäuft wurde.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

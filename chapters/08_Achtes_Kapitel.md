@@ -349,11 +349,6 @@ Parteien in der Abendkälte erwärmt wurden.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Aksu-darja*: vergleiche [Aksu (Fluß)](https://de.wikipedia.org/wiki/Aksu_(Tarim))]{.footnote}
 

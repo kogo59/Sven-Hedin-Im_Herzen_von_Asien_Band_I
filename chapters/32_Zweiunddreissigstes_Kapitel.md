@@ -356,8 +356,3 @@ war verloren gegangen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

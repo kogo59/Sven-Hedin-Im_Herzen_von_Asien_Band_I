@@ -325,9 +325,3 @@ mit dem jungen Kurban ausmachen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

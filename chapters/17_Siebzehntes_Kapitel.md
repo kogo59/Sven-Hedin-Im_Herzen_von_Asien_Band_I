@@ -497,11 +497,6 @@ später noch mehr Dienste leisten sollte.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1700]: [*Raskolniken*: vergleiche [Altgläubige in Russland](https://de.wikipedia.org/wiki/Altgl%C3%A4ubige_in_Russland)]{.footnote}
 

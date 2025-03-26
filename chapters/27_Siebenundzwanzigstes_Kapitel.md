@@ -559,10 +559,3 @@ herrlichstem Wetter angetreten werden, endeten aber immer mit Sturm.
 
 ::::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-
-

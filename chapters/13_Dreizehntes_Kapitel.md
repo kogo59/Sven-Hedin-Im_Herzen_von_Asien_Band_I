@@ -367,10 +367,5 @@ ausgerüstet.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*Charles Eudes Bonin*: vergleiche [Charles-Eudes Bonin ](https://fr.wikipedia.org/wiki/Charles-Eudes_Bonin)]{.footnote}

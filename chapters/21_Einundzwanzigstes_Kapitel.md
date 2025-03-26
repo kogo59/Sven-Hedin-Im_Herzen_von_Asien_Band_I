@@ -481,10 +481,4 @@ ein und derselben Fläche liege.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^2100]: [*Kara-koschun*: vergleiche [Karakoshun](https://de.wikipedia.org/wiki/Karakoshun)]{.footnote}

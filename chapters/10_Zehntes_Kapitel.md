@@ -413,10 +413,5 @@ getragen, auch im Loplande an den Winterabenden Licht und Wärme spendete!
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Urumtschi*: vergleiche [Ürümqi](https://de.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi)]{.footnote}

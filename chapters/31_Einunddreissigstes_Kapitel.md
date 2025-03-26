@@ -460,8 +460,3 @@ Tage; eben war der Mond wieder aus der Nacht der Schneewolken hervorgetreten.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

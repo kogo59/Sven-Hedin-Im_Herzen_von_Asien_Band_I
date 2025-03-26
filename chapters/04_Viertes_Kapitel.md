@@ -454,9 +454,3 @@ mit der Fähre weiterzukommen, wenn sich der Fluß noch einmal teilte?
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

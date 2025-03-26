@@ -21,7 +21,7 @@ bedeutende Summe ist. Der Lohn des ersten Jahres wurde als Vorschuß Oberst
 Saizeff eingehändigt, der davon monatlich 10 Rubel an Islams Familie auszahlte.
 
 :::: {.wrap-100 }
-![Meine Kamelkarawane.](Im_Herzen_von_Asien_I_013.jpg "Meine Kamelkarawane."){#b011}
+![Meine Kamelkarawane.](Im_Herzen_von_Asien_I_011.jpg "Meine Kamelkarawane."){#b011}
 ::::
 
 Als ich mich ganz wiederhergestellt fühlte und alles bereit war, wurde die
@@ -400,12 +400,6 @@ Kosakeneskorte geleitet, entgegen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Osch*: vergleiche [Osch](https://de.wikipedia.org/wiki/Osch)]{.footnote}
 

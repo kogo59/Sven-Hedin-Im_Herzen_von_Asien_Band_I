@@ -565,9 +565,3 @@ Hauptquartier.
 
 ::::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

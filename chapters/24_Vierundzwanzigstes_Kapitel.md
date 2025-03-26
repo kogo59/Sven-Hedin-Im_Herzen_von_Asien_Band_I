@@ -482,8 +482,3 @@ Augenblick der Trennung von Tag zu Tag hinaus.
 
 ::::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

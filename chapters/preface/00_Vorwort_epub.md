@@ -59,7 +59,6 @@ guten Namen vor vielen Schnitzern bewahrt!
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0002]: [*König Oskar von Schweden und Norwegen*: vergleiche [Oskar II](https://de.wikipedia.org/wiki/Oskar_II._(Schweden))]{.footnote}
 
@@ -573,9 +572,6 @@ traten wir zusammen jene lange Reise an, die für ihn auf so beklagenswerte,
 unglückliche Weise enden sollte!
 
 :::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0005]: [*Veraskopcamera*: vergleiche [Stereokamera](https://de.wikipedia.org/wiki/Stereokamera)]{.footnote}
 
